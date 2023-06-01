@@ -1,9 +1,10 @@
 # Summer 2023 notes
 
-Future goals
+### 2023-05-31
 
-- Create Github account
-- Learn Git
+- Created Github account
+- Created SSH key and added to Github
+- Created this repository
 
 ### 2023-05-15
 
