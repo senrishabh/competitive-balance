@@ -4,7 +4,7 @@
 - Wrote a function calculating for any fibonacci number
 - Wrote a function calculating value of e using a for loop
 - Wrote a function calculating value of e using a while loop
-- Completed Chapter 3 of Julia data science
+- Completed Chapter 3.2 of Julia data science
 
 ### 2023-05-31
 
