@@ -1,5 +1,23 @@
 # Todos
 
+### 2023-06-06
+
+These exercise are related to a random walk.  Imagine you toss a coin;
+if it is heads you move one step forward, otherwise one step backward.
+If you plot your position over time, you will get a random walk.  We
+will simulate that here.
+
+- Write a function `f` that takes a number between 0 and 1; if the
+  number is more than 0.5, it returns +1 and -1 otherwise.
+- Use the function `rand` to generate 100 random numbers between 0
+  and 1. Using broadcasting, transform the 100 random numbers to +/-1.
+  These are your random steps forward (+1) or backward (-1).
+- Calculate your position after each step by taking a cumulative sum
+  of all previous steps.  Plot this array.  This is a random walk over
+  time.
+- Write a function to generate a random walk with `n` steps.
+- Write a function to generate `m` random walks with `n` steps each.
+
 ### 2023-06-04
 
 - Take the first 20 Fibonacci numbers and put them in an Integer array
