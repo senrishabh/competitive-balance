@@ -1,5 +1,16 @@
 # Todos
 
+### 2023-06-10
+
+- Read in the 2022-2023 EPL data from http://www.football-data.co.uk
+  into a data frame.
+- How many games were played?
+- Remove all columns except `HomeTeam`, `AwayTeam`, `FTR`, `HTR`,
+  `FTHG`, `FTAG`.  You can add any other columns you find interesting.
+- Calculate the total number of goals scored by Manchester City.
+- Calculate the total number of goals scored by each team as a table.
+- Calculate the goal difference for all teams.
+
 ### 2023-06-06
 
 These exercise are related to a random walk.  Imagine you toss a coin;
