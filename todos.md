@@ -1,5 +1,19 @@
 # Todos
 
+### 2023-06-13
+
+Home field advantage.
+
+- Define the home field advantage for a team in two ways: (a)
+  difference in mean home points vs mean away points, and (b) mean
+  home goals vs mean away goals.  The reason for taking means is to
+  make it easier to compare leagues, as the size of the league (or
+  number of games played) might vary.
+- Write a function to calculate the home field advantage of each team
+  in the leage (two ways).
+- Calculate the mean and variance of the home field advantage across
+  teams in the league.
+
 ### 2023-06-12
 
 - Calculate the league table.
