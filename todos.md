@@ -1,5 +1,11 @@
 # Todos
 
+### 2023-06-12
+
+- Calculate the league table.
+- Write a function to calculate the league table from a data file.
+- Apply the function to three seasons.
+
 ### 2023-06-10
 
 - Read in the 2022-2023 EPL data from http://www.football-data.co.uk
