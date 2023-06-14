@@ -2,7 +2,8 @@
 
 ### 2023-06-14
 
-Organize data from two European leagues and process them.
+Organize data from two European leagues, two divisions, and 12 years.
+Process them for home field advantage and team strength.
 
 - Create a data directory, and make subdirectories for league, and
   division.  Put all the data files with the year in the filename in
