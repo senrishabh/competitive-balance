@@ -1,5 +1,19 @@
 # Todos
 
+### 2023-06-14
+
+Organize data from two European leagues and process them.
+
+- Create a data directory, and make subdirectories for league, and
+  division.  Put all the data files with the year in the filename in
+  the appropriate place.  This will make it easy to find the data
+  files.
+- Write a function to calculate the three quartiles, min and max of a
+  vector.
+- Create a data frame where each row corresponds to a unique year,
+  division, and league (those three are three columns).
+- Add to this data frame, the home field advantage dataframes. 
+
 ### 2023-06-13
 
 Home field advantage.
