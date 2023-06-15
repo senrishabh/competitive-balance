@@ -1,4 +1,12 @@
 # Summer 2023 notes
+### 2023-06-13
+
+### 2023-06-12
+
+### 2023-06-10
+
+### 2023-06-07
+
 ### 2023-06-05
 - Went over Chapter 3.3 of Julia data science in depth
 - Introduced common data structures and types
