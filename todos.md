@@ -1,5 +1,12 @@
 # Todos
 
+### 2023-06-15
+
+- Calculate summary statistics for each table (median, IQR) for home
+  field advantage and team strength, as measured by different metrics
+  (points, goal difference, goals scored per game).
+- Plot these summaries by time, league and tier to examine patterns.  
+
 ### 2023-06-14
 
 Organize data from two European leagues, two divisions, and 12 years.
