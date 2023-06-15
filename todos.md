@@ -2,6 +2,10 @@
 
 ### 2023-06-15
 
+- Add README file in data directory with metadata.  It should have
+  information on where the data were download and when, what the files
+  mean and how they are organized, and what the data fields in the
+  files are.
 - Calculate summary statistics for each table (median, IQR) for home
   field advantage and team strength, as measured by different metrics
   (points, goal difference, goals scored per game).
