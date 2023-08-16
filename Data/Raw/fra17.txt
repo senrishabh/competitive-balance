@@ -1,0 +1,165 @@
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+1	Sun	2017-09-03	15:00 (08:00)	Marseille	0–0	Guingamp	289	Stade Roger Lebert 1	Stéphanie Di Benedetto	Match Report	
+1	Sun	2017-09-03	15:00 (08:00)	Paris S-G	1–1	Soyaux	695	Stade Municipal Georges Lefèvre	Elodie Coppola	Match Report	
+1	Sun	2017-09-03	15:00 (08:00)	Albi	0–7	Montpellier	386	Stade Maurice Rigaud N°1	Céline Bagrowski	Match Report	
+1	Sun	2017-09-03	15:00 (08:00)	Fleury	1–5	Paris FC	573	Stade Auguste Gentelet	Anaëlle Loidon	Match Report	
+1	Sun	2017-09-03	15:00 (08:00)	Lille	3–0	Bordeaux	625	Stadium Nord Lille Métropole - Terrain A...	Victoria Beyer	Match Report	
+1	Sun	2017-09-03	16:00 (09:00)	Lyon	7–0	Rodez	725	Groupama OL Academy Décines-Charpieu 	Florence Guillemin	Match Report	
+											
+2	Sat	2017-09-09	18:00 (11:00)	Guingamp	0–5	Lyon	1,200	Stade Fred Aubert	Céline Bagrowski	Match Report	
+2	Sat	2017-09-09	18:00 (11:00)	Rodez	0–3	Paris S-G	600	Stade Paul Lignon	Solenne Bartnik	Match Report	
+2	Sun	2017-09-10	15:00 (08:00)	Paris FC	2–1	Marseille	250	Stade Robert Bobin	Elodie Coppola	Match Report	
+2	Sun	2017-09-10	15:00 (08:00)	Soyaux	2–1	Lille	196	Stade Léo Lagrange	Stéphanie Di Benedetto	Match Report	
+2	Sun	2017-09-10	15:00 (08:00)	Montpellier	8–0	Fleury	100	Stade Bernard Gasset Terrain n°7	Florence Guillemin	Match Report	
+2	Sun	2017-09-10	15:00 (08:00)	Bordeaux	3–1	Albi	444	Stade Jean-Pierre Delhomme 1	Anaëlle Loidon	Match Report	
+											
+3	Sat	2017-09-23	18:00 (11:00)	Rodez	1–1	Guingamp	243	Stade Paul Lignon	Stéphanie Di Benedetto	Match Report	
+3	Sun	2017-09-24	15:00 (08:00)	Lyon	9–2	Paris FC	805	Groupama OL Academy Décines-Charpieu 	Victoria Beyer	Match Report	
+3	Sun	2017-09-24	15:00 (08:00)	Albi	0–1	Soyaux	287	Stade Maurice Rigaud N°1	Solenne Bartnik	Match Report	
+3	Sun	2017-09-24	15:00 (08:00)	Paris S-G	6–1	Lille	600	Stade Municipal Georges Lefèvre	Florence Guillemin	Match Report	
+3	Sun	2017-09-24	15:00 (08:00)	Fleury	0–1	Bordeaux	312	Stade Auguste Gentelet	Héléne Burban	Match Report	
+3	Sun	2017-09-24	15:00 (08:00)	Marseille	1–4	Montpellier	300	Stade Roger Lebert 1	Elodie Coppola	Match Report	
+											
+4	Sat	2017-09-30	14:30 (07:30)	Guingamp	0–3	Paris S-G	500	Stade Fred Aubert	Victoria Beyer	Match Report	
+4	Sat	2017-09-30	14:30 (07:30)	Bordeaux	1–0	Marseille	607	Stade Jean-Antoine Moueix	Stéphanie Di Benedetto	Match Report	
+4	Sat	2017-09-30	14:30 (07:30)	Montpellier	0–5	Lyon	700	Stade Bernard Gasset Terrain n°7	Florence Guillemin	Match Report	
+4	Sat	2017-09-30	19:00 (12:00)	Lille	1–1	Albi	312	Stadium Nord Lille Métropole	Céline Bagrowski	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+4	Sun	2017-10-01	13:00 (06:00)	Paris FC	4–0	Rodez	110	Stade Robert Bobin	Héléne Burban	Match Report	
+4	Sun	2017-10-01	15:00 (08:00)	Soyaux	2–1	Fleury	356	Stade Léo Lagrange	Anaëlle Loidon	Match Report	
+											
+5	Sun	2017-10-08	13:30 (06:30)	Marseille	0–0	Soyaux	150	Stade Roger Lebert 1	Céline Bagrowski	Match Report	
+5	Sun	2017-10-08	15:00 (08:00)	Guingamp	2–2	Paris FC	560	Stade Fred Aubert	Solenne Bartnik	Match Report	
+5	Sun	2017-10-08	15:00 (08:00)	Paris S-G	1–0	Albi	500	Stade Municipal Georges Lefèvre	Florence Guillemin	Match Report	
+5	Sun	2017-10-08	15:00 (08:00)	Rodez	0–6	Montpellier	418	Stade Paul Lignon	Anaëlle Loidon	Match Report	
+5	Sun	2017-10-08	15:00 (08:00)	Fleury	1–2	Lille	300	Stade Auguste Gentelet	Elodie Coppola	Match Report	
+5	Sun	2017-10-08	15:00 (08:00)	Lyon	2–0	Bordeaux	1,052	Groupama OL Academy Décines-Charpieu 	Solen Dallongeville	Match Report	
+											
+6	Sun	2017-10-15	14:00 (07:00)	Montpellier	1–0	Guingamp	178	Stade Bernard Gasset Terrain n°7	Céline Bagrowski	Match Report	
+6	Sun	2017-10-15	15:00 (08:00)	Albi	1–0	Fleury	800	Stade Maurice Rigaud N°1	Maika Vanderstichel 	Match Report	
+6	Sun	2017-10-15	16:30 (09:30)	Lille	1–1	Marseille	704	Stadium Nord Lille Métropole	Héléne Burban	Match Report	
+6	Sun	2017-10-15	16:30 (09:30)	Paris FC	0–1	Paris S-G	1,438	Stade Robert Bobin	Anaëlle Loidon	Match Report	
+6	Sun	2017-10-15	16:30 (09:30)	Soyaux	0–5	Lyon	1,601	Stade Lebon 1	Stéphanie Di Benedetto	Match Report	
+6	Sun	2017-10-15	17:15 (10:15)	Bordeaux	1–1	Rodez	700	Stade Matmut-Atlantique	Victoria Beyer	Match Report	
+											
+7	Sat	2017-10-28	17:00 (10:00)	Rodez	1–1	Soyaux	272	Stade Paul Lignon	Elodie Coppola	Match Report	
+7	Sat	2017-10-28	18:45 (11:45)	Lyon	6–0	Lille	935	Groupama OL Academy Décines-Charpieu 	Anaëlle Loidon	Match Report	
+7	Sat	2017-10-28	18:45 (11:45)	Paris FC	1–2	Montpellier	890	Stade Sébastien Charléty	Victoria Beyer	Match Report	
+7	Sun	2017-10-29	15:00 (09:00)	Fleury	0–2	Paris S-G	683	Stade Auguste Gentelet	Camille Soriano	Match Report	
+7	Sun	2017-10-29	15:00 (09:00)	Guingamp	0–1	Bordeaux	550	Stade Fred Aubert	Solen Dallongeville	Match Report	
+7	Sun	2017-10-29	15:00 (09:00)	Marseille	1–2	Albi	150	Stade Roger Lebert 1	Solenne Bartnik	Match Report	
+											
+8	Sat	2017-11-04	15:00 (09:00)	Bordeaux	2–3	Paris FC	544	Stade Jean-Pierre Delhomme 1	Florence Guillemin	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+8	Sat	2017-11-04	17:00 (11:00)	Albi	0–5	Lyon	792	Stade Maurice Rigaud N°1	Héléne Burban	Match Report	
+8	Sat	2017-11-04	21:00 (15:00)	Paris S-G	3–1	Montpellier	1,025	Stade Municipal Georges Lefèvre	Elodie Coppola	Match Report	
+8	Sun	2017-11-05	13:00 (06:00)	Lille	0–2	Rodez	150	Stadium Nord Lille Métropole	Céline Bagrowski	Match Report	
+8	Sun	2017-11-05	15:00 (08:00)	Soyaux	1–2	Guingamp	397	Stade Léo Lagrange	Solenne Bartnik	Match Report	
+8	Sun	2017-11-05	15:00 (08:00)	Fleury	2–1	Marseille	400	Stade Auguste Gentelet	Solen Dallongeville	Match Report	
+											
+9	Sat	2017-11-18	14:30 (07:30)	Marseille	2–5	Paris S-G	380	Stade Roger Lebert 1	Florence Guillemin	Match Report	
+9	Sat	2017-11-18	18:00 (11:00)	Rodez	0–0	Albi	534	Stade Paul Lignon	Victoria Beyer	Match Report	
+9	Sun	2017-11-19	14:30 (07:30)	Guingamp	1–0	Lille	204	Stade Fred Aubert	Savina Elbour	Match Report	
+9	Sun	2017-11-19	14:30 (07:30)	Montpellier	4–1	Bordeaux	169	Stade Bernard Gasset Terrain n°7	Solenne Bartnik	Match Report	
+9	Sun	2017-11-19	14:30 (07:30)	Lyon	5–0	Fleury	648	Groupama OL Academy Décines-Charpieu 	Elodie Coppola	Match Report	
+9	Sun	2017-11-19	14:30 (07:30)	Paris FC	2–1	Soyaux	316	Stade Robert Bobin	Anaëlle Loidon	Match Report	
+											
+10	Sun	2017-12-03	14:30 (07:30)	Soyaux	1–5	Montpellier	250	Stade Léo Lagrange	Solen Dallongeville	Match Report	
+10	Sun	2017-12-03	14:30 (07:30)	Albi	2–0	Guingamp	254	Stade Maurice Rigaud N°1	Maika Vanderstichel 	Match Report	
+10	Sun	2017-12-03	14:30 (07:30)	Fleury	2–0	Rodez	154	Stade Lascombe	Camille Soriano	Match Report	
+10	Sun	2017-12-03	14:30 (07:30)	Marseille	0–5	Lyon	552	Stade Francis Turcan	Céline Bagrowski	Match Report	
+10	Sun	2017-12-03	14:30 (07:30)	Paris S-G	3–0	Bordeaux	500	Stade Municipal Georges Lefèvre	Anaëlle Loidon	Match Report	
+											
+11	Sat	2017-12-09	14:00 (07:00)	Montpellier	4–1	Lille	104	Stade Bernard Gasset Terrain n°7	Solenne Bartnik	Match Report	
+11	Sun	2017-12-10	14:30 (07:30)	Bordeaux	0–0	Soyaux	293	Stade Jean-Pierre Delhomme 1	Stéphanie Di Benedetto	Match Report	
+11	Sun	2017-12-10	14:30 (07:30)	Guingamp	1–2	Fleury	250	Stade Fred Aubert	Victoria Beyer	Match Report	
+11	Sun	2017-12-10	14:30 (07:30)	Paris FC	1–0	Albi	280	Stade Robert Bobin	Anaëlle Loidon	Match Report	
+11	Sun	2017-12-10	14:30 (07:30)	Rodez	4–2	Marseille	261	Stade Paul Lignon	Maika Vanderstichel 	Match Report	
+11	Mon	2017-12-11	21:00 (14:00)	Lyon	1–0	Paris S-G	7,050	Groupama OL Academy Décines-Charpieu 	Florence Guillemin	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+											
+12	Sun	2017-12-17	14:30 (07:30)	Lille	2–0	Soyaux	100	Stadium Nord Lille Métropole	Victoria Beyer	Match Report	
+12	Sun	2017-12-17	14:30 (07:30)	Marseille	1–0	Paris FC	150	Stade Roger Lebert 1	Solenne Bartnik	Match Report	
+12	Sun	2017-12-17	14:30 (07:30)	Lyon	4–0	Guingamp	730	Groupama OL Academy Décines-Charpieu 	Stéphanie Di Benedetto	Match Report	
+12	Sun	2017-12-17	14:30 (07:30)	Paris S-G	6–0	Rodez	200	Stade Municipal Georges Lefèvre	Solen Dallongeville	Match Report	
+											
+13	Sat	2018-01-13	14:30 (07:30)	Montpellier	3–2	Marseille	181	Stade Bernard Gasset Terrain n°7	Victoria Beyer	Match Report	
+13	Sat	2018-01-13	17:00 (10:00)	Lille	1–3	Paris S-G	2,262	Stadium Nord Lille Métropole	Solenne Bartnik	Match Report	
+13	Sun	2018-01-14	14:30 (07:30)	Guingamp	3–1	Rodez	150	Stade de l'Europe	Camille Soriano	Match Report	
+13	Sun	2018-01-14	14:30 (07:30)	Soyaux	1–1	Albi	230	Stade Léo Lagrange	Anaëlle Loidon	Match Report	
+13	Sun	2018-01-14	14:30 (07:30)	Bordeaux	3–3	Fleury	250	Stade Jean-Pierre Delhomme 1	Elodie Coppola	Match Report	
+13	Sun	2018-01-14	14:30 (07:30)	Paris FC	0–4	Lyon	1,285	Stade Robert Bobin	Florence Guillemin	Match Report	
+											
+14	Sun	2018-02-04	13:00 (06:00)	Rodez	0–0	Paris FC	208	Stade Paul Lignon	Solenne Bartnik	Match Report	
+14	Sun	2018-02-04	14:00 (07:00)	Marseille	1–0	Bordeaux	237	Stade Roger Lebert 1	Céline Bagrowski	Match Report	
+14	Sun	2018-02-04	14:00 (07:00)	Albi	0–0	Lille	332	Stade Maurice Rigaud N°1	Stéphanie Di Benedetto	Match Report	
+14	Sun	2018-02-04	15:00 (08:00)	Paris S-G	2–0	Guingamp	835	Stade Municipal Georges Lefèvre	Maika Vanderstichel 	Match Report	
+14	Sun	2018-02-04	15:00 (08:00)	Fleury	1–0	Soyaux	154	Stade Auguste Gentelet	Anaëlle Loidon	Match Report	
+14	Mon	2018-02-05	21:00 (14:00)	Lyon	2–1	Montpellier	681	Groupama OL Academy Décines-Charpieu 	Elodie Coppola	Match Report	
+											
+10	Sun	2018-02-11	15:00 (08:00)	Lille	1–1	Paris FC	373	Complexe Sportif de Luchin	Victoria Beyer	Match Report	
+											
+12	Sun	2018-02-11	15:00 (08:00)	Albi	0–1	Bordeaux	288	Stade Maurice Rigaud N°1	Florence Guillemin	Match Report	
+											
+15	Sat	2018-02-17	15:00 (08:00)	Montpellier	2–1	Rodez	133	Stade Bernard Gasset Terrain n°7	Céline Bagrowski	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+15	Sat	2018-02-17	18:00 (11:00)	Paris FC	1–3	Guingamp	161	Stade Robert Bobin	Florence Guillemin	Match Report	
+15	Sun	2018-02-18	15:00 (08:00)	Albi	0–4	Paris S-G	626	Stade Maurice Rigaud N°1	Camille Soriano	Match Report	
+15	Sun	2018-02-18	15:00 (08:00)	Lille	2–2	Fleury	332	Complexe Sportif de Luchin	Solenne Bartnik	Match Report	
+15	Sun	2018-02-18	15:00 (08:00)	Soyaux	2–1	Marseille	678	Stade Lebon 1	Stéphanie Di Benedetto	Match Report	
+15	Sun	2018-02-18	15:00 (08:00)	Bordeaux	0–4	Lyon	1,096	Complexe Sportif Robert Monseau 1	Victoria Beyer	Match Report	
+											
+12	Wed	2018-02-21	15:00 (08:00)	Fleury	1–1	Montpellier	180	Stade Lascombe	Maika Vanderstichel 	Match Report	
+											
+16	Sun	2018-03-11	13:00 (07:00)	Marseille	0–2	Lille	110	Stade Roger Lebert 1	Céline Bagrowski	Match Report	
+16	Sun	2018-03-11	14:00 (08:00)	Lyon	5–0	Soyaux	924	Groupama OL Academy Décines-Charpieu 	Maika Vanderstichel 	Match Report	
+16	Sun	2018-03-11	15:00 (09:00)	Fleury	0–1	Albi	244	Stade Lascombe	Anaëlle Loidon	Match Report	
+16	Sun	2018-03-11	15:00 (09:00)	Rodez	2–2	Bordeaux	587	Stade Paul Lignon	Solenne Bartnik	Match Report	
+16	Sun	2018-03-11	17:15 (11:15)	Guingamp	1–3	Montpellier	187	Stade du Roudourou	Camille Soriano	Match Report	
+16	Mon	2018-03-12	18:00 (12:00)	Paris S-G	4–1	Paris FC	200	Stade Municipal Georges Lefèvre	Elodie Coppola	Match Report	
+											
+17	Sat	2018-03-17	18:30 (12:30)	Lille	 1–10	Lyon	2,793	Stadium Nord Lille Métropole	Florence Guillemin	Match Report	
+17	Sun	2018-03-18	15:00 (09:00)	Montpellier	2–1	Paris FC	180	Stade Bernard Gasset Terrain n°7	Solenne Bartnik	Match Report	
+17	Sun	2018-03-18	15:00 (09:00)	Albi	0–2	Marseille	490	Stade Maurice Rigaud N°1	Maika Vanderstichel 	Match Report	
+17	Sun	2018-03-18	15:00 (09:00)	Bordeaux	1–1	Guingamp	422	Stade Jean-Pierre Delhomme 1	Stéphanie Di Benedetto	Match Report	
+17	Sun	2018-03-18	15:00 (09:00)	Soyaux	3–2	Rodez	291	Stade Léo Lagrange	Anaëlle Loidon	Match Report	
+											
+18	Sun	2018-04-01	14:00 (07:00)	Guingamp	1–0	Soyaux	894	Stade Fred Aubert	Céline Bagrowski	Match Report	
+18	Sun	2018-04-01	14:00 (07:00)	Rodez	2–1	Lille	653	Stade Paul Lignon	Maika Vanderstichel 	Match Report	
+18	Sun	2018-04-01	14:00 (07:00)	Montpellier	3–0	Paris S-G	264	Stade Bernard Gasset Terrain n°7	Victoria Beyer	Match Report	
+18	Sun	2018-04-01	15:00 (08:00)	Paris FC	1–1	Bordeaux	313	Stade Robert Bobin	Camille Soriano	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+18	Sun	2018-04-01	15:00 (08:00)	Lyon	4–0	Albi	955	Groupama OL Academy Décines-Charpieu 	Stéphanie Di Benedetto	Match Report	
+18	Sun	2018-04-01	15:00 (08:00)	Marseille	0–1	Fleury	188	Stade Roger Lebert 1	Florence Guillemin	Match Report	
+											
+19	Sun	2018-04-22	14:00 (07:00)	Lille	1–0	Guingamp	325	Complexe Sportif de Luchin	Victoria Beyer	Match Report	
+19	Sun	2018-04-22	15:00 (08:00)	Albi	1–1	Rodez	720	Stade Maurice Rigaud N°1	Camille Soriano	Match Report	
+19	Sun	2018-04-22	15:00 (08:00)	Bordeaux	0–0	Montpellier	417	Stade Jean-Pierre Delhomme 1	Céline Bagrowski	Match Report	
+19	Sun	2018-04-22	15:00 (08:00)	Soyaux	1–1	Paris FC	440	Stade Léo Lagrange	Solenne Bartnik	Match Report	
+19	Sun	2018-04-22	16:30 (09:30)	Paris S-G	4–0	Marseille	4,500	Stade Jean-Bouin	Elodie Coppola	Match Report	
+											
+17	Sat	2018-04-28	15:00 (08:00)	Paris S-G	4–2	Fleury	957	Stade Municipal Georges Lefèvre	Maika Vanderstichel 	Match Report	
+											
+19	Wed	2018-05-02	15:00 (08:00)	Fleury	1–3	Lyon	325	Stade Auguste Gentelet	Elodie Coppola	Match Report	
+											
+20	Sat	2018-05-12	19:00 (12:00)	Paris FC	2–1	Lille	572	Stade Robert Bobin	Sabine Bonnin	Match Report	
+20	Sun	2018-05-13	14:00 (07:00)	Guingamp	0–1	Albi	150	Stade Fred Aubert	Stéphanie Di Benedetto	Match Report	
+20	Sun	2018-05-13	15:00 (08:00)	Rodez	3–1	Fleury	647	Stade Paul Lignon	Maika Vanderstichel 	Match Report	
+20	Sun	2018-05-13	16:30 (09:30)	Bordeaux	0–1	Paris S-G	1,180	Stade Jean-Antoine Moueix	Solenne Bartnik	Match Report	
+20	Sun	2018-05-13	16:30 (09:30)	Montpellier	1–0	Soyaux	84	Stade Bernard Gasset Terrain n°7	Victoria Beyer	Match Report	
+20	Sun	2018-05-13	16:30 (09:30)	Lyon	7–0	Marseille	1,541	Groupama OL Academy Décines-Charpieu 	Anaëlle Loidon	Match Report	
+											
+21	Fri	2018-05-18	21:00 (14:00)	Paris S-G	0–0	Lyon	1,440	Stade Municipal Georges Lefèvre	Victoria Beyer	Match Report	
+21	Sat	2018-05-19	15:00 (08:00)	Lille	0–2	Montpellier	554	Stadium Nord Lille Métropole	Céline Bagrowski	Match Report	
+21	Sat	2018-05-19	15:00 (08:00)	Marseille	0–1	Rodez	110	Stade Roger Lebert 1	Stéphanie Di Benedetto	Match Report	
+21	Sat	2018-05-19	15:00 (08:00)	Albi	0–1	Paris FC	520	Stade Maurice Rigaud N°1	Maika Vanderstichel 	Match Report	
+21	Sat	2018-05-19	15:00 (08:00)	Soyaux	1–0	Bordeaux	291	Stade Léo Lagrange	Anaëlle Loidon	Match Report	
+Wk 	Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+21	Sat	2018-05-19	15:00 (08:00)	Fleury	1–0	Guingamp	374	Stade Auguste Gentelet	Florence Guillemin	Match Report	
+											
+22	Sun	2018-05-27	15:00 (08:00)	Rodez	0–6	Lyon	1,783	Stade Paul Lignon	Anaëlle Loidon	Match Report	
+22	Sun	2018-05-27	15:00 (08:00)	Guingamp	1–0	Marseille	500	Stade de l'Europe	Camille Soriano	Match Report	
+22	Sun	2018-05-27	15:00 (08:00)	Montpellier	3–1	Albi	161	Stade Bernard Gasset Terrain n°7	Stéphanie Di Benedetto	Match Report	
+22	Sun	2018-05-27	15:00 (08:00)	Soyaux	0–3	Paris S-G	706	Stade Lebon 1	Céline Bagrowski	Match Report	
+22	Sun	2018-05-27	15:00 (08:00)	Bordeaux	1–2	Lille	378	Stade Sainte-Germaine	Victoria Beyer	Match Report	
+22	Sun	2018-05-27	15:00 (08:00)	Paris FC	0–0	Fleury	960	Stade Robert Bobin	Elodie Coppola	Match Report	

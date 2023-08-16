@@ -1,0 +1,92 @@
+Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sun	2013-04-14	17:00 	Red Stars	1–1	Reign	1,255	Village of Lisle-Benedictine University ...	Josh Wilkens	Match Report	
+Sun	2013-04-14	18:00 (17:00)	Sky Blue	1–0	Flash	2,611	Yurcak Field	John McCloskey	Match Report	
+Sun	2013-04-14	18:30 (17:30)	Boston	1–1	Spirit	2,634	Dilboy Stadium	Hernan Aguilar	Match Report	
+Sat	2013-04-13	19:35 	Kansas City	1–1	Thorns	6,784	Shawnee Mission District Stadium	Kari Seitz	Match Report	
+Sat	2013-04-20	19:00 (18:00)	Spirit	1–1	Flash	4,569	Maureen Hendricks Field at Maryland Socc...	Kari Seitz	Match Report	
+Sun	2013-04-21	14:00 (16:00)	Thorns	2–1	Reign	16,479	Jeld-Wen Field	Josh Wilkens	Match Report	
+Sat	2013-04-27	19:00 (18:00)	Spirit	1–2	Sky Blue	3,102	Maureen Hendricks Field at Maryland Socc...	Kara Honthumb	Match Report	
+Sat	2013-04-27	19:35 (18:35)	Flash	1–2	Boston	4,065	Sahlen's Stadium	Yevgeniy Mednikov	Match Report	
+Fri	2013-04-26	19:35 	Kansas City	2–0	Reign	4,064	Shawnee Mission District Stadium	Christina Unkel	Match Report	
+Sat	2013-04-27	19:00 	Red Stars	0–2	Thorns	2,855	Village of Lisle-Benedictine University ...	Katja Koroleva	Match Report	
+Wed	2013-05-01	19:05 (18:05)	Flash	2–1	Sky Blue	2,127	Sahlen's Stadium	Miguel Panduro	Match Report	
+Sat	2013-05-04	18:00 (17:00)	Boston	4–1	Red Stars	3,113	Dilboy Stadium	Kristen Salazar	Match Report	
+Sat	2013-05-04	19:00 (18:00)	Spirit	1–2	Thorns	5,011	Maureen Hendricks Field at Maryland Socc...	Christina Unkel	Match Report	
+Sat	2013-05-04	20:00 (22:00)	Reign	0–1	Kansas City	2,618	Starfire Stadium	Margaret Domka	Match Report	
+Wed	2013-05-08	19:00 (18:00)	Sky Blue	1–1	Red Stars	688	Yurcak Field	Yevgeniy Mednikov	Match Report	
+Sat	2013-05-11	19:00 (18:00)	Sky Blue	2–0	Reign	1,459	Yurcak Field	Stephen Montanino	Match Report	
+Sat	2013-05-11	19:00 (18:00)	Spirit	1–1	Boston	4,027	Maureen Hendricks Field at Maryland Socc...	Josh Wilkens	Match Report	
+Sat	2013-05-11	19:35 (18:35)	Flash	2–1	Kansas City	2,738	Sahlen's Stadium	Katja Koroleva	Match Report	
+Sun	2013-05-12	17:00 	Red Stars	0–2	Thorns	1,329	Village of Lisle-Benedictine University ...	Kari Seitz	Match Report	
+Thu	2013-05-16	19:00 (21:00)	Reign	2–4	Spirit	1,011	Starfire Stadium	Katja Koroleva	Match Report	
+Thu	2013-05-16	19:30 (21:30)	Thorns	0–1	Sky Blue	11,055	Jeld-Wen Field	Josh Wilkens	Match Report	
+Sun	2013-05-19	14:00 (16:00)	Thorns	2–0	Spirit	12,474	Jeld-Wen Field	Robert Sibiga	Match Report	
+Sat	2013-05-18	19:35 	Kansas City	2–0	Boston	4,362	Shawnee Mission District Stadium	Miguel Panduro	Match Report	
+Sun	2013-05-19	18:00 (20:00)	Reign	0–3	Sky Blue	1,046	Starfire Stadium	Kari Seitz	Match Report	
+Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Fri	2013-05-24	19:05 (18:05)	Flash	2–1	Red Stars	3,152	Sahlen's Stadium	Robert Sibiga	Match Report	
+Sat	2013-05-25	19:00 (18:00)	Boston	3–0	Spirit	1,246	Dilboy Stadium	Kara Honthumb	Match Report	
+Sat	2013-05-25	19:00 (21:00)	Reign	0–1	Thorns	3,324	Starfire Stadium	Margaret Domka	Match Report	
+Sat	2013-05-25	19:35 	Kansas City	0–1	Sky Blue	4,186	Shawnee Mission District Stadium	John McCloskey	Match Report	
+Sat	2013-06-01	14:00 (16:00)	Thorns	0–2	Red Stars	12,446	Jeld-Wen Field	Christina Unkel	Match Report	
+Sat	2013-06-01	19:00 (18:00)	Sky Blue	5–1	Boston	1,312	Yurcak Field	Robert Sibiga	Match Report	
+Wed	2013-06-05	19:00 (18:00)	Boston	2–2	Flash	2,124	Dilboy Stadium	John McCloskey	Match Report	
+Thu	2013-06-06	19:30 (21:30)	Thorns	4–3	Kansas City	10,886	Jeld-Wen Field	Miguel Panduro	Match Report	
+Sat	2013-06-08	19:00 (18:00)	Sky Blue	0–3	Flash	2,056	Yurcak Field	Josh Wilkens	Match Report	
+Sun	2013-06-09	15:00 	Red Stars	1–0	Boston	1,129	Village of Lisle-Benedictine University ...	Kari Seitz	Match Report	
+Sun	2013-06-09	19:00 (21:00)	Reign	0–1	Kansas City	1,377	Starfire Stadium	Kara Honthumb	Match Report	
+Thu	2013-06-13	18:30 	Red Stars	0–2	Kansas City	1,141	Village of Lisle-Benedictine University ...	Josh Wilkens	Match Report	
+Sat	2013-06-15	19:00 (18:00)	Spirit	0–2	Flash	4,630	Maureen Hendricks Field at Maryland Socc...	Boris Senic	Match Report	
+Sun	2013-06-16	14:00 (16:00)	Thorns	2–0	Reign	13,802	Jeld-Wen Field	Robert Sibiga	Match Report	
+Sun	2013-06-16	15:10 	Kansas City	1–3	Red Stars	3,421	Shawnee Mission District Stadium	Juliana Duncan	Match Report	
+Sun	2013-06-16	18:30 (17:30)	Boston	2–3	Sky Blue	2,687	Dilboy Stadium	Christina Unkel	Match Report	
+Wed	2013-06-19	18:30 	Red Stars	2–2	Flash	790	Village of Lisle-Benedictine University ...	Kara Honthumb	Match Report	
+Sat	2013-06-22	19:00 (18:00)	Sky Blue	0–0	Thorns	3,002	Yurcak Field	Kari Seitz	Match Report	
+Sun	2013-06-23	15:10 	Kansas City	2–0	Spirit	3,057	Shawnee Mission District Stadium	Katja Koroleva	Match Report	
+Sun	2013-06-23	16:05 (15:05)	Flash	1–1	Reign	6,347	Sahlen's Stadium	Miguel Panduro	Match Report	
+Wed	2013-06-26	19:00 (18:00)	Boston	1–2	Reign	2,012	Dilboy Stadium	John McCloskey	Match Report	
+Wed	2013-06-26	19:00 (18:00)	Sky Blue	2–2	Kansas City	1,126	Yurcak Field	Robert Sibiga	Match Report	
+Fri	2013-06-28	19:05 (18:05)	Flash	4–0	Spirit	3,364	Sahlen's Stadium	Margaret Domka	Match Report	
+Sun	2013-06-30	15:10 	Kansas City	2–0	Thorns	4,774	Shawnee Mission District Stadium	Christina Unkel	Match Report	
+Sun	2013-06-30	18:30 (17:30)	Boston	3–2	Sky Blue	1,876	Dilboy Stadium	Katja Koroleva	Match Report	
+Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sat	2013-06-29	20:00 (22:00)	Reign	3–1	Red Stars	2,318	Starfire Stadium	Josh Wilkens	Match Report	
+Wed	2013-07-03	19:30 (18:30)	Spirit	1–1	Kansas City	2,467	Maureen Hendricks Field at Maryland Socc...	Kara Honthumb	Match Report	
+Thu	2013-07-04	13:00 	Red Stars	1–0	Flash	2,064	Village of Lisle-Benedictine University ...	Juliana Duncan	Match Report	
+Wed	2013-07-03	19:00 (21:00)	Reign	1–1	Boston	1,430	Starfire Stadium	Miguel Panduro	Match Report	
+Sat	2013-07-06	19:00 (18:00)	Sky Blue	1–0	Spirit	1,322	Yurcak Field	John McCloskey	Match Report	
+Sun	2013-07-07	15:10 	Kansas City	0–0	Flash	5,031	Shawnee Mission District Stadium	Elvis Mahmutovic	Match Report	
+Sat	2013-07-06	19:30 (21:30)	Thorns	0–2	Boston	12,436	Jeld-Wen Field	Robert Sibiga	Match Report	
+Wed	2013-07-10	19:30 (18:30)	Spirit	0–2	Red Stars	2,593	Maureen Hendricks Field at Maryland Socc...	Miguel Panduro	Match Report	
+Thu	2013-07-11	19:00 (21:00)	Reign	3–2	Flash	2,514	Starfire Stadium	Robert Sibiga	Match Report	
+Sat	2013-07-13	19:00 (18:00)	Sky Blue	0–0	Boston	1,279	Yurcak Field	Margaret Domka	Match Report	
+Sun	2013-07-14	14:00 (16:00)	Thorns	1–1	Flash	13,021	Jeld-Wen Field	Ted Unkel	Match Report	
+Sun	2013-07-14	15:00 	Red Stars	3–3	Kansas City	1,549	Village of Lisle-Benedictine University ...	Josh Wilkens	Match Report	
+Sun	2013-07-14	17:30 (19:30)	Reign	2–1	Spirit	3,855	Starfire Stadium	Katja Koroleva	Match Report	
+Sat	2013-07-20	18:00 	Red Stars	1–0	Spirit	1,241	Village of Lisle-Benedictine University ...	Margaret Domka	Match Report	
+Sun	2013-07-21	13:30 (12:30)	Flash	3–0	Sky Blue	4,664	Sahlen's Stadium	Kara Honthumb	Match Report	
+Sun	2013-07-21	16:00 (15:00)	Boston	1–2	Thorns	2,978	Dilboy Stadium	Robert Sibiga	Match Report	
+Sat	2013-07-20	19:35 	Kansas City	2–0	Reign	5,271	Shawnee Mission District Stadium	Boris Senic	Match Report	
+Wed	2013-07-24	19:35 	Kansas City	3–0	Boston	5,024	Shawnee Mission District Stadium	Margaret Domka	Match Report	
+Thu	2013-07-25	19:00 (21:00)	Reign	4–1	Red Stars	2,017	Starfire Stadium	Robert Sibiga	Match Report	
+Sat	2013-07-27	19:00 (18:00)	Spirit	2–5	Boston	2,607	Maureen Hendricks Field at Maryland Socc...	Kara Honthumb	Match Report	
+Sun	2013-07-28	16:00 (18:00)	Thorns	3–3	Red Stars	12,534	Jeld-Wen Field	Kari Seitz	Match Report	
+Sun	2013-07-28	18:00 (17:00)	Sky Blue	0–1	Kansas City	1,302	Yurcak Field	Christina Unkel	Match Report	
+Wed	2013-07-31	19:05 (18:05)	Flash	3–0	Spirit	3,967	Sahlen's Stadium	Miguel Panduro	Match Report	
+Wed	2013-07-31	19:30 (21:30)	Thorns	3–1	Sky Blue	13,769	Jeld-Wen Field	Margaret Domka	Match Report	
+Sat	2013-08-03	18:00 (17:00)	Boston	2–2	Flash	2,899	Dilboy Stadium	Christina Unkel	Match Report	
+Day 	Date 	Time 	Home 	Score 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sat	2013-08-03	18:00 	Red Stars	3–1	Reign	3,400	Village of Lisle-Benedictine University ...	Kara Honthumb	Match Report	
+Sat	2013-08-03	19:00 (18:00)	Sky Blue	1–0	Spirit	2,172	Yurcak Field	Elvis Mahmutovic	Match Report	
+Sun	2013-08-04	17:30 (19:30)	Thorns	2–3	Kansas City	17,619	Jeld-Wen Field	John McCloskey	Match Report	
+Wed	2013-08-07	19:00 (18:00)	Boston	2–1	Thorns	3,012	Dilboy Stadium	Elvis Mahmutovic	Match Report	
+Wed	2013-08-07	19:05 (18:05)	Flash	1–0	Reign	4,993	Sahlen's Stadium	Robert Sibiga	Match Report	
+Wed	2013-08-07	19:30 (18:30)	Spirit	1–0	Red Stars	2,081	Maureen Hendricks Field at Maryland Socc...	Dimitar Chavdarov	Match Report	
+Sat	2013-08-10	18:00 	Red Stars	3–3	Sky Blue	2,064	Village of Lisle-Benedictine University ...	Kristen Salazar	Match Report	
+Sat	2013-08-10	18:00 (17:00)	Boston	1–0	Kansas City	2,116	Dilboy Stadium	Kara Honthumb	Match Report	
+Sat	2013-08-10	19:00 (18:00)	Spirit	1–0	Reign	4,549	Maureen Hendricks Field at Maryland Socc...	Kari Seitz	Match Report	
+Sat	2013-08-10	19:35 (18:35)	Flash	0–0	Thorns	7,606	Sahlen's Stadium	Margaret Domka	Match Report	
+Sun	2013-08-18	15:10 	Kansas City	1–2	Red Stars	4,910	Shawnee Mission District Stadium	Elvis Mahmutovic	Match Report	
+Sun	2013-08-18	17:00 (16:00)	Spirit	1–1	Sky Blue	4,241	Maureen Hendricks Field at Maryland Socc...	Kara Honthumb	Match Report	
+Sat	2013-08-17	20:00 (22:00)	Reign	1–2	Thorns	3,855	Starfire Stadium	Christina Unkel	Match Report	
+Sat	2013-08-17	20:00 (19:00)	Flash	2–1	Boston	6,311	Sahlen's Stadium	Dimitar Chavdarov	Match Report

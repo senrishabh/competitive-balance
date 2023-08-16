@@ -1,0 +1,160 @@
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+1	Fri	2022-09-09	21:00 (14:00)	Paris S-G	2.8	2–0	0.3	Soyaux	411	Stade Municipal Georges Lefèvre	Maika Vanderstichel	Match Report	
+1	Sat	2022-09-10	14:30 (07:30)	Bordeaux	2.0	4–2	0.7	Le Havre	835	Stade Sainte-Germaine	Charlène Laur	Match Report	
+1	Sat	2022-09-10	14:30 (07:30)	Guingamp	0.5	0–3	2.5	Fleury	236	Stade Centre Formation EAG 1	Clémence Goncalves	Match Report	
+1	Sat	2022-09-10	14:30 (07:30)	Paris FC	1.3	2–0	0.3	Rodez	209	Stade Sébastien Charléty	Aurélie Efe	Match Report	
+1	Sat	2022-09-10	14:30 (07:30)	Montpellier	2.3	3–0	1.2	Dijon	236	Stade Bernard Gasset Terrain n°7	Audrey Gerbel	Match Report	
+1	Sun	2022-09-11	12:45 (05:45)	Stade de Reims	0.7	1–5	3.6	Lyon	1,311	Stade Auguste-Delaune	Silham Benmahammed	Match Report	
+													
+2	Fri	2022-09-16	18:30 (11:30)	Fleury	1.2	1–1	0.9	Paris FC	626	Stade Auguste Gentelet	Maika Vanderstichel	Match Report	
+2	Sat	2022-09-17	14:30 (07:30)	Dijon	0.2	1–1	1.0	Bordeaux	342	Stade Gaston Gérard	Savina Elbour	Match Report	
+2	Sat	2022-09-17	14:30 (07:30)	Stade de Reims	0.1	1–3	2.9	Montpellier	195	Stade Louis Blériot N°2 	Victoria Beyer	Match Report	
+2	Sat	2022-09-17	14:30 (07:30)	Rodez	0.2	0–4	3.1	Paris S-G	1,212	Stade Paul Lignon	Alexandra Collin	Match Report	
+2	Sun	2022-09-18	12:45 (05:45)	Le Havre	1.7	1–0	0.6	Guingamp	431	Stade Océane	Émeline Rochebilière	Match Report	
+2	Sun	2022-09-18	15:00 (08:00)	Lyon	3.2	2–1	0.1	Soyaux	889	Stade Gérard Houillier 1	Romy Fournier	Match Report	
+													
+3	Fri	2022-09-23	18:30 (11:30)	Paris FC	2.6	1–0	0.4	Le Havre	201	Stade Sébastien Charléty	Clémence Goncalves	Match Report	
+3	Fri	2022-09-23	21:00 (14:00)	Montpellier	1.2	1–3	2.1	Lyon	775	Stade Bernard Gasset Terrain n°7	Alexandra Collin	Match Report	
+3	Sat	2022-09-24	14:30 (07:30)	Soyaux	1.5	2–0	1.0	Rodez	334	Stade Léo Lagrange	Silham Benmahammed	Match Report	
+3	Sat	2022-09-24	14:30 (07:30)	Guingamp	1.3	0–1	1.3	Dijon	512	Stade du Roudourou	Charlène Laur	Match Report	
+3	Sat	2022-09-24	14:30 (07:30)	Bordeaux	0.7	0–1	1.0	Stade de Reims	886	Stade Sainte-Germaine	Aurélie Efe	Match Report	
+3	Sun	2022-09-25	12:45 (05:45)	Paris S-G	1.7	2–1	0.4	Fleury	436	Stade Municipal Georges Lefèvre	Audrey Gerbel	Match Report	
+													
+4	Fri	2022-09-30	21:00 (14:00)	Montpellier	0.8	0–0	0.4	Bordeaux	395	Stade Bernard Gasset Terrain n°7	Silham Benmahammed	Match Report	
+4	Sat	2022-10-01	14:30 (07:30)	Fleury	1.2	1–1	0.4	Soyaux	221	Stade Auguste Gentelet N°2	Savina Elbour	Match Report	
+4	Sat	2022-10-01	14:30 (07:30)	Stade de Reims	1.1	3–0	0.7	Guingamp	159	Stade Louis Blériot N°2 	Audrey Gerbel	Match Report	
+4	Sat	2022-10-01	14:30 (07:30)	Dijon	0.4	0–2	1.8	Paris FC	216	Complexe Sportif DFCO	Romy Fournier	Match Report	
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+4	Sat	2022-10-01	14:30 (07:30)	Lyon	1.6	2–0	0.1	Rodez	810	Groupama Stadium	Victoria Beyer	Match Report	
+4	Sun	2022-10-02	12:45 (05:45)	Le Havre	0.3	2–2	1.9	Paris S-G	1,400	Stade Océane	Aurélie Efe	Match Report	
+													
+5	Fri	2022-10-14	18:30 (11:30)	Paris FC	1.9	2–2	0.5	Stade de Reims	322	Stade Sébastien Charléty	Savina Elbour	Match Report	
+5	Sat	2022-10-15	14:30 (07:30)	Guingamp	1.4	1–4	2.7	Montpellier	305	Stade Centre Formation EAG 1	Alexandra Collin	Match Report	
+5	Sat	2022-10-15	14:30 (07:30)	Paris S-G	2.4	3–1	0.2	Dijon	606	Stade Municipal Georges Lefèvre	Victoria Beyer	Match Report	
+5	Sat	2022-10-15	14:30 (07:30)	Soyaux	0.7	1–4	2.5	Le Havre	382	Stade Léo Lagrange	Charlène Laur	Match Report	
+5	Sun	2022-10-16	12:45 (05:45)	Bordeaux	0.6	1–3	2.0	Lyon	1,259	Stade Sainte-Germaine	Clémence Goncalves	Match Report	
+5	Sun	2022-10-16	12:45 (05:45)	Rodez	1.0	2–1	0.3	Fleury	308	Stade Paul Lignon	Aurélie Efe	Match Report	
+													
+6	Fri	2022-10-28	21:00 (14:00)	Montpellier	1.1	1–3	1.5	Paris FC	728	Stade Bernard Gasset Terrain n°7	Victoria Beyer	Match Report	
+6	Sat	2022-10-29	14:30 (07:30)	Le Havre	2.1	2–1	1.5	Rodez	1,246	Stade Océane	Audrey Gerbel	Match Report	
+6	Sat	2022-10-29	14:30 (07:30)	Dijon	2.2	1–0	0.5	Soyaux	301	Stade des Poussots 1	Aurélie Efe	Match Report	
+6	Sat	2022-10-29	14:30 (07:30)	Stade de Reims	0.5	0–2	2.1	Paris S-G	1,019	Stade Auguste-Delaune	Charlène Laur	Match Report	
+6	Sat	2022-10-29	14:30 (07:30)	Bordeaux	2.1	3–1	1.4	Guingamp	774	Stade Alain-Roche	Silham Benmahammed	Match Report	
+6	Sun	2022-10-30	12:45 (06:45)	Lyon	1.8	1–0	0.1	Fleury	1,480	Stade Gérard Houillier 1	Émeline Rochebilière	Match Report	
+													
+7	Fri	2022-11-04	18:30 (12:30)	Rodez	2.3	1–1	0.9	Dijon	323	Stade Paul Lignon	Maika Vanderstichel	Match Report	
+7	Fri	2022-11-04	21:00 (15:00)	Paris FC	1.2	1–1	0.7	Bordeaux	907	Stade Sébastien Charléty	Alexandra Collin	Match Report	
+7	Sat	2022-11-05	13:30 (07:30)	Paris S-G	2.0	2–2	0.3	Montpellier	684	Stade Municipal Georges Lefèvre	Émeline Rochebilière	Match Report	
+7	Sat	2022-11-05	14:30 (08:30)	Fleury	2.8	3–0	0.6	Le Havre	601	Stade Auguste Gentelet N°2	Clémence Goncalves	Match Report	
+7	Sat	2022-11-05	14:30 (08:30)	Soyaux	0.8	1–4	2.3	Stade de Reims	468	Stade Léo Lagrange	Silham Benmahammed	Match Report	
+7	Sat	2022-11-05	14:30 (08:30)	Guingamp	0.3	0–0	1.6	Lyon	871	Stade Centre Formation EAG 1	Aurélie Efe	Match Report	
+													
+8	Sat	2022-11-19	14:30 (07:30)	Montpellier	1.7	2–2	1.4	Soyaux	325	Stade Bernard Gasset Terrain n°7	Maika Vanderstichel	Match Report	
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+8	Sat	2022-11-19	14:30 (07:30)	Guingamp	0.6	0–3	1.9	Paris FC	637	Stade Fred Aubert	Émeline Rochebilière	Match Report	
+8	Sat	2022-11-19	14:30 (07:30)	Dijon	0.9	1–5	2.9	Fleury	252	Complexe Sportif DFCO	Charlène Laur	Match Report	
+8	Sat	2022-11-19	14:30 (07:30)	Stade de Reims	0.4	0–0	0.2	Rodez	138	Stade Louis Blériot N°2 	Victoria Beyer	Match Report	
+8	Sun	2022-11-20	14:00 (07:00)	Bordeaux	0.6	0–3	1.2	Paris S-G	1,346	Stade Sainte-Germaine	Clémence Goncalves	Match Report	
+8	Sun	2022-11-20	16:00 (09:00)	Lyon	2.0	1–0	0.2	Le Havre	1,512	Stade Gérard Houillier 1	Audrey Gerbel	Match Report	
+													
+9	Fri	2022-11-25	21:00 (14:00)	Fleury	0.6	1–0	0.3	Stade de Reims	591	Stade Robert Bobin	Elisa Daupeux	Match Report	
+9	Sat	2022-11-26	14:30 (07:30)	Montpellier	1.6	2–1	2.0	Rodez	332	Stade Bernard Gasset Terrain n°7	Silham Benmahammed	Match Report	
+9	Sat	2022-11-26	14:30 (07:30)	Paris S-G	0.7	1–0	0.5	Guingamp	556	Stade Municipal Georges Lefèvre	Alexandra Collin	Match Report	
+9	Sat	2022-11-26	14:30 (07:30)	Soyaux	0.3	0–1	1.4	Bordeaux	402	Stade Léo Lagrange	Aurélie Efe	Match Report	
+9	Sat	2022-11-26	14:30 (07:30)	Le Havre	2.6	5–0	0.3	Dijon	500	Stade Océane	Victoria Beyer	Match Report	
+9	Sun	2022-11-27	16:00 (09:00)	Paris FC	1.3	2–3	2.9	Lyon	2,957	Stade Sébastien Charléty	Savina Elbour	Match Report	
+													
+10	Fri	2022-12-02	18:00 (11:00)	Montpellier	1.1	1–1	1.5	Fleury	183	Stade Bernard Gasset Terrain n°7	Émeline Rochebilière	Match Report	
+10	Sat	2022-12-03	14:30 (07:30)	Stade de Reims	2.0	3–1	0.6	Le Havre	186	Stade Louis Blériot N°2 	Maika Vanderstichel	Match Report	
+10	Sat	2022-12-03	14:30 (07:30)	Bordeaux	2.9	3–1	0.4	Rodez	690	Stade Sainte-Germaine	Alexandra Collin	Match Report	
+10	Sat	2022-12-03	14:30 (07:30)	Guingamp	2.6	3–1	1.1	Soyaux	522	Stade Centre Formation EAG 1	Charlène Laur	Match Report	
+10	Sat	2022-12-03	14:30 (07:30)	Lyon	2.7	8–0	0.2	Dijon	403	Stade Gérard Houillier 1	Clémence Goncalves	Match Report	
+10	Sun	2022-12-04	13:00 (06:00)	Paris FC	0.4	0–1	0.8	Paris S-G	3,293	Stade Sébastien Charléty	Audrey Gerbel	Match Report	
+													
+11	Fri	2022-12-09	18:00 (11:00)	Fleury	2.1	2–0	0.3	Bordeaux	254	Stade Auguste Gentelet	Victoria Beyer	Match Report	
+11	Sat	2022-12-10	14:30 (07:30)	Dijon	0.7	0–4	3.3	Stade de Reims	363	Complexe Sportif DFCO	Aurélie Efe	Match Report	
+11	Sat	2022-12-10	14:30 (07:30)	Rodez	1.6	1–2	1.6	Guingamp	218	Stade de la Roque 1	Audrey Gerbel	Match Report	
+11	Sat	2022-12-10	14:30 (07:30)	Soyaux	1.1	0–6	1.9	Paris FC	258	Stade Léo Lagrange	Savina Elbour	Match Report	
+11	Sun	2022-12-11	12:45 (05:45)	Le Havre	0.7	0–1	1.5	Montpellier	1,439	Stade Océane	Silham Benmahammed	Match Report	
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+11	Sun	2022-12-11	21:00 (14:00)	Lyon	1.8	0–1	0.6	Paris S-G	13,400	Groupama Stadium	Maika Vanderstichel	Match Report	
+													
+12	Fri	2023-01-13	18:30 (11:30)	Paris S-G	1.7	1–0	0.2	Rodez	462	Stade Municipal Georges Lefèvre	Clémence Goncalves	Match Report	
+12	Sat	2023-01-14	13:45 (06:45)	Bordeaux	1.4	2–0	0.2	Dijon	794	Stade Sainte-Germaine	Victoria Beyer	Match Report	
+12	Sat	2023-01-14	13:45 (06:45)	Soyaux	0.2	0–3	4.8	Lyon	613	Stade Léo Lagrange	Audrey Gerbel	Match Report	
+12	Sat	2023-01-14	13:45 (06:45)	Guingamp	2.4	2–2	2.1	Le Havre	395	Stade Centre Formation EAG 1	Elisa Daupeux	Match Report	
+12	Sat	2023-01-14	13:45 (06:45)	Montpellier	1.0	2–0	1.3	Stade de Reims	211	Stade Bernard Gasset Terrain n°7	Charlène Laur	Match Report	
+12	Sun	2023-01-15	12:45 (05:45)	Paris FC	1.0	0–2	1.2	Fleury	303	Stade Sébastien Charléty	Silham Benmahammed	Match Report	
+													
+13	Fri	2023-01-20	21:00 (14:00)	Fleury	1.1	4–4	3.1	Paris S-G	1,698	Stade Robert Bobin	Audrey Gerbel	Match Report	
+13	Sat	2023-01-21	13:45 (06:45)	Stade de Reims	2.8	6–1	0.5	Bordeaux	196	Stade Louis Blériot N°2 	Aurélie Efe	Match Report	
+13	Sat	2023-01-21	13:45 (06:45)	Le Havre	1.3	1–3	1.5	Paris FC	1,509	Stade Océane	Charlène Laur	Match Report	
+13	Sat	2023-01-21	13:45 (06:45)	Dijon	0.9	1–0	0.5	Guingamp	352	Complexe Sportif DFCO	Silham Benmahammed	Match Report	
+13	Sat	2023-01-21	21:00 (14:00)	Lyon	2.3	2–0	0.3	Montpellier	650	Stade Gérard Houillier 1	Clémence Goncalves	Match Report	
+													
+14	Fri	2023-02-03	18:30 (11:30)	Bordeaux	0.2	0–2	2.0	Montpellier	762	Stade Pierre-Paul Bernard 	Alexandra Collin	Match Report	
+14	Sat	2023-02-04	13:45 (06:45)	Rodez	0.3	0–5	4.1	Lyon	1,156	Stade Paul Lignon	Elisa Daupeux	Match Report	
+14	Sat	2023-02-04	13:45 (06:45)	Guingamp	0.7	2–0	2.5	Stade de Reims	208	Stade Centre Formation EAG 1	Audrey Gerbel	Match Report	
+14	Sat	2023-02-04	13:45 (06:45)	Soyaux	0.9	0–4	3.3	Fleury	312	Stade Lebon 1	Charlène Laur	Match Report	
+14	Sat	2023-02-04	13:45 (06:45)	Paris FC	2.3	2–0	0.4	Dijon	307	Stade Sébastien Charléty	Victoria Beyer	Match Report	
+14	Sun	2023-02-05	12:45 (05:45)	Paris S-G	3.5	3–1	0.5	Le Havre	621	Stade Municipal Georges Lefèvre	Émeline Rochebilière	Match Report	
+													
+13	Fri	2023-02-10	18:30 (11:30)	Rodez	1.9	1–0	0.2	Soyaux	449	Stade Paul Lignon	Émeline Rochebilière	Match Report	
+													
+15	Sat	2023-02-25	13:45 (06:45)	Le Havre	1.7	2–0	0.7	Soyaux	248	Stade Océane	Silham Benmahammed	Match Report	
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+15	Sat	2023-02-25	13:45 (06:45)	Fleury	3.2	6–0	0.7	Rodez	352	Stade Auguste Gentelet N°2	Alexandra Collin	Match Report	
+15	Sat	2023-02-25	13:45 (06:45)	Montpellier	0.7	0–1	0.9	Guingamp	391	Stade Bernard Gasset Terrain n°7	Clémence Goncalves	Match Report	
+15	Sat	2023-02-25	13:45 (06:45)	Stade de Reims	0.2	0–3	2.0	Paris FC	305	Stade Louis Blériot N°2 	Aurélie Efe	Match Report	
+15	Sun	2023-02-26	14:45 (07:45)	Lyon	4.4	3–0	0.1	Bordeaux	715	Stade Gérard Houillier 1	Victoria Beyer	Match Report	
+15	Sun	2023-02-26	14:45 (07:45)	Dijon	0.5	0–4	3.1	Paris S-G	2,330	Stade Gaston Gérard	Elisa Daupeux	Match Report	
+													
+16	Fri	2023-03-10	18:30 (11:30)	Paris FC	2.1	2–0	0.3	Montpellier	282	Stade Sébastien Charléty	Victoria Beyer	Match Report	
+16	Fri	2023-03-10	21:00 (14:00)	Fleury	1.4	1–2	2.0	Lyon	2,534	Stade Robert Bobin	Silham Benmahammed	Match Report	
+16	Sat	2023-03-11	13:45 (06:45)	Soyaux	1.1	1–1	0.8	Dijon	382	Stade Léo Lagrange	Émeline Rochebilière	Match Report	
+16	Sat	2023-03-11	13:45 (06:45)	Rodez	1.3	1–2	1.8	Le Havre	241	Stade de la Roque 1	Aurélie Efe	Match Report	
+16	Sat	2023-03-11	13:45 (06:45)	Guingamp	0.7	2–0	0.6	Bordeaux	316	Stade Centre Formation EAG 1	Elisa Daupeux	Match Report	
+16	Sun	2023-03-12	12:45 (06:45)	Paris S-G	1.3	4–0	0.3	Stade de Reims	607	Stade Municipal Georges Lefèvre	Deborah Anex	Match Report	
+													
+17	Fri	2023-03-24	18:30 (12:30)	Le Havre	0.9	1–1	1.0	Fleury	300	Stade Océane	Elisa Daupeux	Match Report	
+17	Sat	2023-03-25	13:45 (07:45)	Bordeaux	1.0	0–0	1.2	Paris FC	863	Stade Sainte-Germaine	Charlène Laur	Match Report	
+17	Sat	2023-03-25	13:45 (07:45)	Dijon	2.1	1–2	1.5	Rodez	289	Stade des Poussots 1	Silham Benmahammed	Match Report	
+17	Sat	2023-03-25	13:45 (07:45)	Stade de Reims	1.7	3–1	0.4	Soyaux	139	Stade Louis Blériot N°2 	Audrey Gerbel	Match Report	
+17	Sat	2023-03-25	15:00 (09:00)	Lyon	6.2	6–0	0.7	Guingamp	580	Stade Gérard Houillier 1	Clémence Goncalves	Match Report	
+17	Sun	2023-03-26	17:15 (10:15)	Montpellier	1.0	0–1	1.6	Paris S-G	569	Stade Bernard Gasset Terrain n°7	Alexandra Collin	Match Report	
+													
+18	Fri	2023-03-31	18:30 (11:30)	Rodez	1.9	1–2	1.7	Stade de Reims	364	Stade Paul Lignon	Émeline Rochebilière	Match Report	
+18	Fri	2023-03-31	21:00 (14:00)	Paris FC	2.7	2–2	1.6	Guingamp	437	Stade Sébastien Charléty	Aurélie Efe	Match Report	
+18	Sat	2023-04-01	13:45 (06:45)	Fleury	1.0	1–0	0.2	Dijon	544	Stade Auguste Gentelet N°2	Clémence Goncalves	Match Report	
+18	Sat	2023-04-01	13:45 (06:45)	Soyaux	0.5	1–5	3.6	Montpellier	180	Stade Lebon 1	Charlène Laur	Match Report	
+18	Sun	2023-04-02	12:45 (05:45)	Paris S-G	1.2	1–0	0.3	Bordeaux	727	Stade Municipal Georges Lefèvre	Victoria Beyer	Match Report	
+Wk 	Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+18	Sun	2023-04-02	12:45 (05:45)	Le Havre	0.6	0–7	4.8	Lyon	2,556	Stade Océane	Alexandra Collin	Match Report	
+													
+19	Sat	2023-04-15	13:45 (06:45)	Dijon	0.6	0–2	1.8	Le Havre	322	Complexe Sportif DFCO	Audrey Gerbel	Match Report	
+19	Sat	2023-04-15	13:45 (06:45)	Stade de Reims	0.7	1–3	1.7	Fleury	434	Stade Louis Blériot N°2 	Victoria Beyer	Match Report	
+19	Sat	2023-04-15	13:45 (06:45)	Bordeaux	1.2	3–0	1.0	Soyaux	766	Stade Sainte-Germaine	Elisa Daupeux	Match Report	
+19	Sun	2023-04-16	12:30 (05:30)	Guingamp	0.0	0–1	1.4	Paris S-G	1,651	Stade du Roudourou	Clémence Goncalves	Match Report	
+19	Sun	2023-04-16	15:00 (08:00)	Rodez	1.0	2–3	1.8	Montpellier	942	Stade de la Roque 1	Silham Benmahammed	Match Report	
+19	Sun	2023-04-16	15:00 (08:00)	Lyon	2.0	2–0	0.9	Paris FC	5,336	Groupama Stadium	Émeline Rochebilière	Match Report	
+													
+20	Sat	2023-05-06	13:30 (06:30)	Soyaux	1.3	1–2	1.3	Guingamp	375	Stade Léo Lagrange	Aurélie Efe	Match Report	
+20	Sat	2023-05-06	13:30 (06:30)	Rodez	0.2	1–1	0.6	Bordeaux	698	Stade Paul Lignon	Clémence Goncalves	Match Report	
+20	Sat	2023-05-06	13:30 (06:30)	Le Havre	1.1	0–5	2.7	Stade de Reims	252	Stade Océane	Charlène Laur	Match Report	
+20	Sat	2023-05-06	13:30 (06:30)	Fleury	0.3	1–2	0.7	Montpellier	630	Stade Robert Bobin	Alexandra Collin	Match Report	
+20	Sat	2023-05-06	13:30 (06:30)	Dijon	0.1	0–3	2.9	Lyon	1,062	Stade Gaston Gérard	Elisa Daupeux	Match Report	
+20	Sun	2023-05-07	15:00 (08:00)	Paris S-G	1.3	0–0	0.6	Paris FC	814	Stade Municipal Georges Lefèvre	Audrey Gerbel	Match Report	
+													
+21	Sun	2023-05-21	12:30 (05:30)	Guingamp	2.1	2–1	1.3	Rodez	291	Stade du Roudourou	Silham Benmahammed	Match Report	
+21	Sun	2023-05-21	12:30 (05:30)	Montpellier	3.3	2–1	0.9	Le Havre	368	Stade Bernard Gasset Terrain n°7	Audrey Gerbel	Match Report	
+21	Sun	2023-05-21	12:30 (05:30)	Stade de Reims	1.8	3–1	1.4	Dijon	170	Stade Louis Blériot N°1	Émeline Rochebilière	Match Report	
+21	Sun	2023-05-21	12:30 (05:30)	Bordeaux	0.7	1–1	0.8	Fleury	823	Stade Sainte-Germaine	Aurélie Efe	Match Report	
+21	Sun	2023-05-21	12:30 (05:30)	Paris FC	3.1	5–2	0.2	Soyaux	527	Stade Sébastien Charléty	Alexandra Collin	Match Report	
+21	Sun	2023-05-21	21:00 (14:00)	Paris S-G	0.5	0–1	1.1	Lyon	18,876	Parc des Princes	Victoria Beyer	Match Report	
+													
+22	Sat	2023-05-27	17:30 (10:30)	Soyaux	1.1	0–3	3.4	Paris S-G	897	Stade Léo Lagrange	Maika Vanderstichel	Match Report	
+22	Sat	2023-05-27	17:30 (10:30)	Rodez	0.5	0–4	3.0	Paris FC	754	Stade Paul Lignon	Victoria Beyer	Match Report	
+22	Sat	2023-05-27	17:30 (10:30)	Le Havre	1.3	2–4	1.8	Bordeaux	1,113	Stade Océane	Silham Benmahammed	Match Report	
+22	Sat	2023-05-27	17:30 (10:30)	Fleury	3.1	6–0	0.1	Guingamp	330	Stade Robert Bobin	Charlène Laur	Match Report	
+22	Sat	2023-05-27	17:30 (10:30)	Lyon	4.4	7–1	1.1	Stade de Reims	5,000	Groupama Stadium	Elisa Daupeux	Match Report	
+22	Sat	2023-05-27	17:30 (10:30)	Dijon	1.1	2–1	0.3	Montpellier	788	Complexe Sportif DFCO	Aurélie Efe	Match Report	

@@ -1,0 +1,116 @@
+Team 1	Team 2	Winner	Margin	Ground	Match Date	Scorecard
+RCB	KKR	KKR	140 runs	Bengaluru	Apr 18, 2008	Twenty20
+Kings XI	Super Kings	Super Kings	33 runs	Mohali	Apr 19, 2008	Twenty20
+Daredevils	Royals	Daredevils	9 wickets	Delhi	Apr 19, 2008	Twenty20
+KKR	Chargers	KKR	5 wickets	Eden Gardens	Apr 20, 2008	Twenty20
+Mumbai	RCB	RCB	5 wickets	Wankhede	Apr 20, 2008	Twenty20
+Royals	Kings XI	Royals	6 wickets	Jaipur	Apr 21, 2008	Twenty20
+Chargers	Daredevils	Daredevils	9 wickets	Hyderabad	Apr 22, 2008	Twenty20
+Super Kings	Mumbai	Super Kings	6 runs	Chennai	Apr 23, 2008	Twenty20
+Chargers	Royals	Royals	3 wickets	Hyderabad	Apr 24, 2008	Twenty20
+Kings XI	Mumbai	Kings XI	66 runs	Mohali	Apr 25, 2008	Twenty20
+Super Kings	KKR	Super Kings	9 wickets	Chennai	Apr 26, 2008	Twenty20
+RCB	Royals	Royals	7 wickets	Bengaluru	Apr 26, 2008	Twenty20
+Kings XI	Daredevils	Kings XI	4 wickets	Mohali	Apr 27, 2008	Twenty20
+Mumbai	Chargers	Chargers	10 wickets	DY Patil	Apr 27, 2008	Twenty20
+RCB	Super Kings	Super Kings	13 runs	Bengaluru	Apr 28, 2008	Twenty20
+KKR	Mumbai	Mumbai	7 wickets	Eden Gardens	Apr 29, 2008	Twenty20
+Daredevils	RCB	Daredevils	10 runs	Delhi	Apr 30, 2008	Twenty20
+Royals	KKR	Royals	45 runs	Jaipur	May 1, 2008	Twenty20
+Chargers	Kings XI	Kings XI	7 wickets	Hyderabad	May 1, 2008	Twenty20
+Super Kings	Daredevils	Daredevils	8 wickets	Chennai	May 2, 2008	Twenty20
+RCB	Chargers	RCB	3 runs	Bengaluru	May 3, 2008	Twenty20
+Kings XI	KKR	Kings XI	9 runs	Mohali	May 3, 2008	Twenty20
+Mumbai	Daredevils	Mumbai	29 runs	DY Patil	May 4, 2008	Twenty20
+Royals	Super Kings	Royals	8 wickets	Jaipur	May 4, 2008	Twenty20
+RCB	Kings XI	Kings XI	6 wickets	Bengaluru	May 5, 2008	Twenty20
+Super Kings	Chargers	Chargers	7 wickets	Chennai	May 6, 2008	Twenty20
+Mumbai	Royals	Mumbai	7 wickets	DY Patil	May 7, 2008	Twenty20
+Daredevils	Super Kings	Super Kings	4 wickets	Delhi	May 8, 2008	Twenty20
+KKR	RCB	KKR	5 runs	Eden Gardens	May 8, 2008	Twenty20
+Royals	Chargers	Royals	8 wickets	Jaipur	May 9, 2008	Twenty20
+Super Kings	Kings XI	Super Kings	18 runs	Chennai	May 10, 2008	Twenty20
+Chargers	KKR	KKR	23 runs	Hyderabad	May 11, 2008	Twenty20
+Royals	Daredevils	Royals	3 wickets	Jaipur	May 11, 2008	Twenty20
+Kings XI	RCB	Kings XI	9 wickets	Mohali	May 12, 2008	Twenty20
+KKR	Daredevils	KKR	23 runs	Eden Gardens	May 13, 2008	Twenty20
+Mumbai	Super Kings	Mumbai	9 wickets	Wankhede	May 14, 2008	Twenty20
+Daredevils	Chargers	Daredevils	12 runs	Delhi	May 15, 2008	Twenty20
+Mumbai	KKR	Mumbai	8 wickets	Wankhede	May 16, 2008	Twenty20
+Royals	RCB	Royals	65 runs	Jaipur	May 17, 2008	Twenty20
+Daredevils	Kings XI	Kings XI	6 runs	Delhi	May 17, 2008	Twenty20
+KKR	Super Kings	Super Kings	3 runs	Eden Gardens	May 18, 2008	Twenty20
+Chargers	Mumbai	Mumbai	25 runs	Hyderabad	May 18, 2008	Twenty20
+RCB	Daredevils	Daredevils	5 wickets	Bengaluru	May 19, 2008	Twenty20
+KKR	Royals	Royals	6 wickets	Eden Gardens	May 20, 2008	Twenty20
+Mumbai	Kings XI	Kings XI	1 run	Wankhede	May 21, 2008	Twenty20
+Super Kings	RCB	RCB	14 runs	Chennai	May 21, 2008	Twenty20
+Kings XI	Chargers	Kings XI	6 wickets	Mohali	May 23, 2008	Twenty20
+Super Kings	Royals	Royals	10 runs	Chennai	May 24, 2008	Twenty20
+Daredevils	Mumbai	Daredevils	5 wickets	Delhi	May 24, 2008	Twenty20
+Chargers	RCB	RCB	5 wickets	Hyderabad	May 25, 2008	Twenty20
+KKR	Kings XI	KKR	3 wickets	Eden Gardens	May 25, 2008	Twenty20
+Royals	Mumbai	Royals	5 wickets	Jaipur	May 26, 2008	Twenty20
+Chargers	Super Kings	Super Kings	7 wickets	Hyderabad	May 27, 2008	Twenty20
+RCB	Mumbai	Mumbai	9 wickets	Bengaluru	May 28, 2008	Twenty20
+Kings XI	Royals	Kings XI	41 runs	Mohali	May 28, 2008	Twenty20
+Daredevils	Royals	Royals	105 runs	Wankhede	May 30, 2008	Twenty20
+Super Kings	Kings XI	Super Kings	9 wickets	Wankhede	May 31, 2008	Twenty20
+Super Kings	Royals	Royals	3 wickets	DY Patil	Jun 1, 2008	Twenty20
+Super Kings	Mumbai	Mumbai	19 runs	Cape Town	Apr 18, 2009	Twenty20
+RCB	Royals	RCB	75 runs	Cape Town	Apr 18, 2009	Twenty20
+Daredevils	Kings XI	Daredevils	10 wickets	Cape Town	Apr 19, 2009	Twenty20
+Chargers	KKR	Chargers	8 wickets	Cape Town	Apr 19, 2009	Twenty20
+RCB	Super Kings	Super Kings	92 runs	Gqeberha	Apr 20, 2009	Twenty20
+Kings XI	KKR	KKR	11 runs	Durban	Apr 21, 2009	Twenty20
+RCB	Chargers	Chargers	24 runs	Cape Town	Apr 22, 2009	Twenty20
+Super Kings	Daredevils	Daredevils	9 runs	Durban	Apr 23, 2009	Twenty20
+KKR	Royals	tied	-	Cape Town	Apr 23, 2009	Twenty20
+RCB	Kings XI	Kings XI	7 wickets	Durban	Apr 24, 2009	Twenty20
+Chargers	Mumbai	Chargers	12 runs	Durban	Apr 25, 2009	Twenty20
+RCB	Daredevils	Daredevils	6 wickets	Gqeberha	Apr 26, 2009	Twenty20
+Kings XI	Royals	Kings XI	27 runs	Cape Town	Apr 26, 2009	Twenty20
+Super Kings	Chargers	Chargers	6 wickets	Durban	Apr 27, 2009	Twenty20
+KKR	Mumbai	Mumbai	92 runs	Gqeberha	Apr 27, 2009	Twenty20
+Daredevils	Royals	Royals	5 wickets	Centurion	Apr 28, 2009	Twenty20
+RCB	KKR	RCB	5 wickets	Durban	Apr 29, 2009	Twenty20
+Kings XI	Mumbai	Kings XI	3 runs	Durban	Apr 29, 2009	Twenty20
+Chargers	Daredevils	Daredevils	6 wickets	Centurion	Apr 30, 2009	Twenty20
+Super Kings	Royals	Super Kings	38 runs	Centurion	Apr 30, 2009	Twenty20
+KKR	Mumbai	Mumbai	9 runs	East London	May 1, 2009	Twenty20
+RCB	Kings XI	RCB	8 runs	Durban	May 1, 2009	Twenty20
+Chargers	Royals	Royals	3 wickets	Gqeberha	May 2, 2009	Twenty20
+Super Kings	Daredevils	Super Kings	18 runs	Johannesburg	May 2, 2009	Twenty20
+Kings XI	KKR	Kings XI	6 wickets	Gqeberha	May 3, 2009	Twenty20
+RCB	Mumbai	RCB	9 wickets	Johannesburg	May 3, 2009	Twenty20
+Super Kings	Chargers	Super Kings	78 runs	East London	May 4, 2009	Twenty20
+Kings XI	Royals	Royals	78 runs	Durban	May 5, 2009	Twenty20
+Daredevils	KKR	Daredevils	9 wickets	Durban	May 5, 2009	Twenty20
+Chargers	Mumbai	Chargers	19 runs	Centurion	May 6, 2009	Twenty20
+RCB	Royals	Royals	7 wickets	Centurion	May 7, 2009	Twenty20
+Super Kings	Kings XI	Super Kings	12 runs	Centurion	May 7, 2009	Twenty20
+Daredevils	Mumbai	Daredevils	7 wickets	East London	May 8, 2009	Twenty20
+Chargers	Kings XI	Kings XI	3 wickets	Kimberley	May 9, 2009	Twenty20
+Super Kings	Royals	Super Kings	7 wickets	Kimberley	May 9, 2009	Twenty20
+RCB	Mumbai	Mumbai	16 runs	Gqeberha	May 10, 2009	Twenty20
+Daredevils	KKR	Daredevils	7 wickets	Johannesburg	May 10, 2009	Twenty20
+Chargers	Royals	Chargers	53 runs	Kimberley	May 11, 2009	Twenty20
+RCB	KKR	RCB	6 wickets	Centurion	May 12, 2009	Twenty20
+Kings XI	Mumbai	Mumbai	8 wickets	Centurion	May 12, 2009	Twenty20
+Chargers	Daredevils	Daredevils	12 runs	Durban	May 13, 2009	Twenty20
+RCB	Super Kings	RCB	2 wickets	Durban	May 14, 2009	Twenty20
+Mumbai	Royals	Royals	2 runs	Durban	May 14, 2009	Twenty20
+Daredevils	Kings XI	Kings XI	6 wickets	Bloemfontein	May 15, 2009	Twenty20
+Super Kings	Mumbai	Super Kings	7 wickets	Gqeberha	May 16, 2009	Twenty20
+Chargers	KKR	Chargers	6 wickets	Johannesburg	May 16, 2009	Twenty20
+Chargers	Kings XI	Kings XI	1 run	Johannesburg	May 17, 2009	Twenty20
+Daredevils	Royals	Daredevils	14 runs	Bloemfontein	May 17, 2009	Twenty20
+Super Kings	KKR	KKR	7 wickets	Centurion	May 18, 2009	Twenty20
+RCB	Daredevils	RCB	7 wickets	Johannesburg	May 19, 2009	Twenty20
+KKR	Royals	KKR	4 wickets	Durban	May 20, 2009	Twenty20
+Super Kings	Kings XI	Super Kings	24 runs	Durban	May 20, 2009	Twenty20
+Daredevils	Mumbai	Daredevils	4 wickets	Centurion	May 21, 2009	Twenty20
+RCB	Chargers	RCB	12 runs	Centurion	May 21, 2009	Twenty20
+Chargers	Daredevils	Chargers	6 wickets	Centurion	May 22, 2009	Twenty20
+Super Kings	RCB	RCB	6 wickets	Johannesburg	May 23, 2009	Twenty20
+Chargers	RCB	Chargers	6 runs	Johannesburg	May 24, 2009	Twenty20

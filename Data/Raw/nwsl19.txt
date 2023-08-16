@@ -1,0 +1,113 @@
+Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sat	2019-04-13	19:00 (18:00)	Courage	1.1	1–1	1.7	Red Stars	4,053	Sahlen's Stadium at WakeMed Soccer Park	Elvis Osmanovic	Match Report	
+Sat	2019-04-13	19:00 (18:00)	Spirit	1.5	2–0	1.0	Sky Blue	2,373	Maureen Hendricks Field Maryland SoccerP...	Natalie Simon	Match Report	
+Sun	2019-04-14	17:00 (16:00)	Pride	1.5	0–2	3.0	Thorns	7,189	Orlando City Stadium	Katja Koroleva	Match Report	
+Sun	2019-04-14	17:00 	Dash	2.4	1–1	1.4	Reign	4,335	BBVA Compass Stadium	Karen Abt	Match Report	
+Wed	2019-04-17	19:00 (18:00)	Courage	2.6	5–0	0.4	Pride	4,292	Sahlen's Stadium at WakeMed Soccer Park	Robinson Khongsai	Match Report	
+Sat	2019-04-20	14:30 	Red Stars	3.1	4–4	2.9	Thorns	12,967	SeatGeek Stadium	Karen Abt	Match Report	
+Sat	2019-04-20	18:00 (17:00)	Sky Blue	1.2	0–1	2.4	Dash	1,394	The Soccer/Lacrosse Stadium at Yurcak Fi...	Robinson Khongsai	Match Report	
+Sat	2019-04-20	19:00 (20:00)	Utah	1.1	1–0	0.6	Spirit	18,015	Rio Tinto Stadium	Katja Koroleva	Match Report	
+Sun	2019-04-21	19:00 (21:00)	Reign	0.9	1–1	0.5	Pride	5,323	Cheney Stadium	Reyna Fonseca	Match Report	
+Sat	2019-04-27	19:30 (18:30)	Pride	0.8	0–1	1.8	Utah	4,640	Orlando City Stadium	Jon Freemon	Match Report	
+Sun	2019-04-28	12:00 	Red Stars	2.9	3–0	1.5	Reign	2,804	SeatGeek Stadium	Robinson Khongsai	Match Report	
+Sun	2019-04-28	17:00 	Dash	0.9	1–4	3.0	Courage	2,933	BBVA Compass Stadium	Rosendo Mendoza	Match Report	
+Sun	2019-04-28	18:00 (17:00)	Sky Blue	1.3	2–2	1.6	Thorns	1,321	The Soccer/Lacrosse Stadium at Yurcak Fi...	Reyna Fonseca	Match Report	
+Sat	2019-05-04	19:00 (18:00)	Courage	1.9	0–0	0.9	Sky Blue	5,039	Sahlen's Stadium at WakeMed Soccer Park	Karen Abt	Match Report	
+Sat	2019-05-04	19:00 (18:00)	Spirit	1.0	0–0	1.6	Reign	2,097	Maureen Hendricks Field Maryland SoccerP...	Jasmine Peralta	Match Report	
+Fri	2019-05-03	19:30 (20:30)	Utah	0.8	1–0	0.8	Red Stars	16,556	Rio Tinto Stadium	Farhad Dadkho	Match Report	
+Sun	2019-05-05	17:00 	Dash	1.3	1–0	0.6	Pride	4,173	BBVA Compass Stadium	Victor Rivas	Match Report	
+Sat	2019-05-11	13:30 (14:30)	Utah	0.6	1–2	0.6	Dash	10,138	Rio Tinto Stadium	Natalie Simon	Match Report	
+Sat	2019-05-11	15:00 (14:00)	Sky Blue	1.4	2–3	1.8	Spirit	1,330	The Soccer/Lacrosse Stadium at Yurcak Fi...	Tori Penso	Match Report	
+Sat	2019-05-11	19:30 (18:30)	Pride	1.0	1–3	2.1	Thorns	4,369	Orlando City Stadium	Marie-Soleil Beaudoin	Match Report	
+Sun	2019-05-12	17:00 	Red Stars	1.9	3–1	2.1	Courage	2,113	SeatGeek Stadium	Greg Dopka	Match Report	
+Sat	2019-05-18	13:00 (15:00)	Reign	2.5	2–1	1.5	Sky Blue	3,036	Cheney Stadium	Natalie Simon	Match Report	
+Sat	2019-05-18	19:00 (18:00)	Spirit	1.2	3–1	1.6	Thorns	3,049	Maureen Hendricks Field Maryland SoccerP...	Robinson Khongsai	Match Report	
+Sun	2019-05-19	17:00 (16:00)	Courage	1.8	1–1	0.3	Utah	4,821	Sahlen's Stadium at WakeMed Soccer Park	Carol-Anne Chenard	Match Report	
+Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sun	2019-05-19	17:00 	Dash	0.5	1–2	2.5	Red Stars	3,690	BBVA Compass Stadium	Katja Koroleva	Match Report	
+Sat	2019-05-25	18:00 (17:00)	Sky Blue	0.5	0–1	2.2	Thorns	1,472	The Soccer/Lacrosse Stadium at Yurcak Fi...	Jasmine Peralta	Match Report	
+Sun	2019-05-26	17:00 	Red Stars	1.4	0–2	0.7	Spirit	3,447	SeatGeek Stadium	Lukasz Szpala	Match Report	
+Sat	2019-05-25	18:00 (19:00)	Utah	3.2	2–0	1.1	Pride	7,345	Rio Tinto Stadium	Karen Abt	Match Report	
+Mon	2019-05-27	16:00 (18:00)	Reign	0.9	2–1	1.5	Courage	3,032	Cheney Stadium	Robinson Khongsai	Match Report	
+Sat	2019-06-01	19:00 (18:00)	Spirit	0.9	2–0	0.6	Utah	4,575	Maureen Hendricks Field Maryland SoccerP...	Guido Gonzalez Jr.	Match Report	
+Sat	2019-06-01	19:30 (18:30)	Pride	0.9	0–3	1.4	Courage	4,427	Orlando City Stadium	Eric Tattersall	Match Report	
+Sun	2019-06-02	13:00 (15:00)	Reign	1.8	1–1	1.4	Dash	3,063	Cheney Stadium	Tori Penso	Match Report	
+Sun	2019-06-02	15:00 (17:00)	Thorns	3.1	3–0	1.6	Red Stars	19,461	Providence Park	Victor Rivas	Match Report	
+Sat	2019-06-15	19:45 (18:45)	Courage	1.3	1–1	0.5	Thorns	6,172	Sahlen's Stadium at WakeMed Soccer Park	Tori Penso	Match Report	
+Sat	2019-06-15	19:00 (21:00)	Reign	2.2	1–1	0.8	Spirit	3,572	Cheney Stadium	Natalie Simon	Match Report	
+Sat	2019-06-15	19:30 	Dash	2.5	2–2	1.1	Pride	3,776	BBVA Stadium	Samantha Martinez	Match Report	
+Sat	2019-06-15	20:00 (21:00)	Utah	1.6	1–0	1.6	Sky Blue	5,777	Rio Tinto Stadium	Robinson Khongsai	Match Report	
+Sat	2019-06-22	19:00 (18:00)	Spirit	1.4	0–0	0.2	Dash	2,367	Maureen Hendricks Field Maryland SoccerP...	Lorant Varga	Match Report	
+Sat	2019-06-22	19:00 (18:00)	Sky Blue	2.8	1–2	1.3	Pride	1,644	The Soccer/Lacrosse Stadium at Yurcak Fi...	Becky Pagan	Match Report	
+Fri	2019-06-21	20:00 (22:00)	Thorns	1.2	0–0	0.3	Utah	15,581	Providence Park	Rosendo Mendoza	Match Report	
+Sun	2019-06-23	17:00 	Red Stars	0.7	0–1	2.0	Reign	2,023	SeatGeek Stadium	Ismir Pekmic	Match Report	
+Sat	2019-06-29	19:00 (18:00)	Spirit	0.9	1–2	2.4	Courage	3,481	Maureen Hendricks Field Maryland SoccerP...	Robinson Khongsai	Match Report	
+Fri	2019-06-28	20:00 (21:00)	Utah	1.0	0–2	1.8	Reign	6,910	Rio Tinto Stadium	Kevin Broadley	Match Report	
+Sun	2019-06-30	17:00 (16:00)	Pride	1.9	2–3	2.3	Red Stars	3,906	Exploria Stadium	Jasmine Peralta	Match Report	
+Sat	2019-06-29	19:30 	Dash	1.7	1–2	0.9	Thorns	3,379	BBVA Stadium	Michael Radchuk	Match Report	
+Fri	2019-07-05	19:30 (18:30)	Courage	2.6	5–2	0.9	Dash	5,066	Sahlen's Stadium at WakeMed Soccer Park	Lukasz Szpala	Match Report	
+Sat	2019-07-06	19:30 (18:30)	Pride	3.1	4–3	3.1	Spirit	3,703	Exploria Stadium	Greg Dopka	Match Report	
+Fri	2019-07-05	20:00 (22:00)	Thorns	1.1	0–1	0.3	Reign	19,116	Providence Park	Farhad Dadkho	Match Report	
+Sat	2019-07-06	19:00 	Red Stars	2.6	1–2	1.6	Sky Blue	2,374	SeatGeek Stadium	Samantha Martinez	Match Report	
+Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Fri	2019-07-12	19:30 (18:30)	Sky Blue	1.5	1–0	0.8	Utah	1,842	The Soccer/Lacrosse Stadium at Yurcak Fi...	Karen Abt	Match Report	
+Sat	2019-07-13	19:00 (18:00)	Courage	1.8	2–0	0.4	Reign	6,216	Sahlen's Stadium at WakeMed Soccer Park	Tori Penso	Match Report	
+Sun	2019-07-14	12:00 (14:00)	Thorns	2.9	4–3	0.5	Pride	18,909	Providence Park	Matthew Franz	Match Report	
+Sat	2019-07-13	19:30 	Dash	0.5	0–1	0.3	Red Stars	5,327	BBVA Stadium	Guido Gonzalez Jr.	Match Report	
+Sat	2019-07-20	19:30 (18:30)	Pride	2.1	1–0	0.4	Sky Blue	9,415	Exploria Stadium	Robinson Khongsai	Match Report	
+Fri	2019-07-19	20:00 (21:00)	Utah	1.9	2–2	0.2	Thorns	15,931	Rio Tinto Stadium	Elvis Osmanovic	Match Report	
+Sun	2019-07-21	17:00 	Red Stars	1.7	2–1	3.2	Courage	17,388	SeatGeek Stadium	Luis Guardia	Match Report	
+Sat	2019-07-20	20:00 (19:00)	Spirit	1.6	1–2	0.9	Dash	5,500	Maureen Hendricks Field Maryland SoccerP...	Karen Abt	Match Report	
+Wed	2019-07-24	19:30 (18:30)	Sky Blue	0.3	0–1	1.3	Spirit	5,003	The Soccer/Lacrosse Stadium at Yurcak Fi...	Jasmine Peralta	Match Report	
+Wed	2019-07-24	19:30 (21:30)	Thorns	3.6	5–0	0.8	Dash	22,329	Providence Park	Malik Badawi	Match Report	
+Sun	2019-07-28	13:00 (15:00)	Reign	2.0	0–4	2.4	Red Stars	7,479	Cheney Stadium	Tim Ford	Match Report	
+Sat	2019-07-27	20:00 (21:00)	Utah	0.4	1–2	1.1	Courage	10,545	Rio Tinto Stadium	Mark Allatin	Match Report	
+Sun	2019-07-28	19:30 	Dash	1.8	1–0	0.5	Sky Blue	3,510	BBVA Stadium	Becky Pagan	Match Report	
+Fri	2019-08-02	18:00 	Dash	1.6	0–1	0.9	Reign	3,621	BBVA Stadium	Ismir Pekmic	Match Report	
+Fri	2019-08-02	19:00 (18:00)	Courage	2.5	1–0	0.7	Spirit	4,393	Sahlen's Stadium at WakeMed Soccer Park	Gustavo Solorio	Match Report	
+Sat	2019-08-03	19:00 	Red Stars	3.0	2–0	1.7	Utah	4,335	SeatGeek Stadium	Matthew Franz	Match Report	
+Sat	2019-08-03	20:00 (22:00)	Thorns	2.3	1–1	0.7	Sky Blue	19,070	Providence Park	Mark Allatin	Match Report	
+Wed	2019-08-07	19:00 (21:00)	Reign	1.8	1–0	1.1	Thorns	5,865	Cheney Stadium	Robinson Khongsai	Match Report	
+Wed	2019-08-07	20:00 (21:00)	Utah	3.5	3–0	0.5	Sky Blue	7,715	Rio Tinto Stadium	Reyna Fonseca	Match Report	
+Sat	2019-08-10	19:00 (18:00)	Spirit	0.5	0–1	2.0	Red Stars	5,300	Maureen Hendricks Field Maryland SoccerP...	Katja Koroleva	Match Report	
+Sat	2019-08-10	19:30 (18:30)	Pride	1.4	0–1	1.8	Dash	5,106	Exploria Stadium	Reyna Fonseca	Match Report	
+Sun	2019-08-11	12:00 (14:00)	Thorns	1.7	2–1	2.9	Courage	25,218	Providence Park	Jon Freemon	Match Report	
+Sun	2019-08-11	13:00 (15:00)	Reign	1.3	1–3	2.4	Utah	5,939	Cheney Stadium	Karen Abt	Match Report	
+Wed	2019-08-14	19:00 (18:00)	Sky Blue	0.8	2–1	2.0	Red Stars	2,558	The Soccer/Lacrosse Stadium at Yurcak Fi...	Thomas Snyder	Match Report	
+Sat	2019-08-17	19:30 (18:30)	Pride	1.2	0–2	2.4	Utah	5,279	Exploria Stadium	Malik Badawi	Match Report	
+Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sun	2019-08-18	13:00 (12:00)	Sky Blue	0.7	1–1	2.0	Reign	9,415	Red Bull Arena	Luis Guardia	Match Report	
+Sat	2019-08-17	19:30 (21:30)	Thorns	1.1	3–1	0.9	Spirit	20,895	Providence Park	Michael Radchuk	Match Report	
+Wed	2019-08-21	18:30 	Red Stars	1.0	1–2	0.7	Pride	5,454	SeatGeek Stadium	Becky Pagan	Match Report	
+Wed	2019-08-21	19:30 (18:30)	Spirit	0.9	0–0	0.6	Utah	2,430	Maureen Hendricks Field Maryland SoccerP...	Guido Gonzalez Jr.	Match Report	
+Sat	2019-08-24	19:00 (18:00)	Courage	2.7	1–0	1.1	Reign	6,743	Sahlen's Stadium at WakeMed Soccer Park	Greg Dopka	Match Report	
+Sat	2019-08-24	19:30 (18:30)	Spirit	2.1	2–1	1.7	Pride	19,471	Audi Field	Matthew Franz	Match Report	
+Sun	2019-08-25	12:00 (14:00)	Thorns	2.8	3–0	1.0	Red Stars	17,542	Providence Park	Lukasz Szpala	Match Report	
+Sat	2019-08-24	19:30 	Dash	1.8	1–2	1.8	Sky Blue	4,102	BBVA Stadium	Natalie Simon	Match Report	
+Sat	2019-09-07	15:00 (14:00)	Sky Blue	2.3	1–2	1.6	Courage	2,895	The Soccer/Lacrosse Stadium at Yurcak Fi...	Robinson Khongsai	Match Report	
+Fri	2019-09-06	19:30 (20:30)	Utah	0.5	1–0	1.5	Thorns	10,897	Rio Tinto Stadium	Ismir Pekmic	Match Report	
+Sun	2019-09-08	17:00 	Red Stars	2.2	3–0	0.2	Dash	3,345	SeatGeek Stadium	Tori Penso	Match Report	
+Sat	2019-09-07	19:00 (21:00)	Reign	1.3	3–1	1.3	Pride	6,668	Cheney Stadium	Karen Abt	Match Report	
+Wed	2019-09-11	19:00 (18:00)	Pride	1.3	0–1	1.8	Red Stars	4,592	Exploria Stadium	Elvis Osmanovic	Match Report	
+Wed	2019-09-11	19:30 (21:30)	Thorns	0.7	0–6	2.6	Courage	17,517	Providence Park	Guido Gonzalez Jr.	Match Report	
+Sat	2019-09-14	19:00 (18:00)	Courage	5.5	6–1	0.5	Pride	9,563	Sahlen's Stadium at WakeMed Soccer Park	Natalie Simon	Match Report	
+Sat	2019-09-14	19:30 (18:30)	Spirit	1.7	2–2	1.4	Reign	17,418	Audi Field	Jon Freemon	Match Report	
+Fri	2019-09-13	19:30 	Dash	1.4	2–1	1.1	Utah	4,538	BBVA Stadium	Luis Guardia	Match Report	
+Sun	2019-09-15	17:00 (16:00)	Sky Blue	1.3	0–3	1.8	Red Stars	2,871	The Soccer/Lacrosse Stadium at Yurcak Fi...	Katja Koroleva	Match Report	
+Tue	2019-09-17	19:30 (18:30)	Courage	2.2	1–0	0.7	Dash	4,943	Sahlen's Stadium at WakeMed Soccer Park	Thomas Snyder	Match Report	
+Sat	2019-09-21	19:00 (20:00)	Utah	0.6	0–3	1.8	Courage	9,946	Rio Tinto Stadium	Karen Abt	Match Report	
+Sat	2019-09-21	19:00 (21:00)	Reign	2.7	0–1	1.4	Sky Blue	6,189	Cheney Stadium	Rosendo Mendoza	Match Report	
+Sat	2019-09-21	19:00 	Red Stars	1.1	3–1	1.3	Spirit	4,317	SeatGeek Stadium	Mark Allatin	Match Report	
+Sat	2019-09-21	19:30 (21:30)	Thorns	1.5	1–0	1.3	Dash	21,022	Providence Park	Victor Rivas	Match Report	
+Wed	2019-09-25	19:00 (21:00)	Reign	1.6	2–1	1.5	Utah	5,015	Cheney Stadium	Lukasz Szpala	Match Report	
+Wed	2019-09-25	20:00 	Dash	0.6	0–0	1.4	Spirit	5,247	BBVA Stadium	Katja Koroleva	Match Report	
+Day 	Date 	Time 	Home 	xG 	Score 	xG 	Away 	Attendance 	Venue 	Referee 	Match Report 	Notes
+Sat	2019-09-28	19:00 (18:00)	Spirit	0.3	2–1	2.9	Courage	5,200	Maureen Hendricks Field Maryland SoccerP...	Ismir Pekmic	Match Report	
+Sun	2019-09-29	11:00 (13:00)	Reign	1.9	2–0	1.0	Thorns	7,370	Cheney Stadium	Matthew Franz	Match Report	
+Sun	2019-09-29	11:00 (10:00)	Sky Blue	1.4	1–1	1.7	Pride	8,314	Red Bull Arena	Karen Callado	Match Report	
+Sat	2019-09-28	19:00 	Red Stars	1.5	2–1	1.3	Utah	4,839	SeatGeek Stadium	Elvis Osmanovic	Match Report	
+Sat	2019-10-05	17:00 (16:00)	Pride	0.4	0–3	1.0	Spirit	6,054	Exploria Stadium	Tori Penso	Match Report	
+Sat	2019-10-12	19:00 (18:00)	Courage	2.1	3–2	0.9	Sky Blue	9,195	Sahlen's Stadium at WakeMed Soccer Park	Jasmine Peralta	Match Report	
+Sat	2019-10-12	19:30 (18:30)	Pride	2.2	2–2	1.9	Reign	8,103	Exploria Stadium	Kevin Broadley	Match Report	
+Sat	2019-10-12	19:00 (20:00)	Utah	2.6	2–1	0.7	Dash	9,513	Rio Tinto Stadium	Guido Gonzalez Jr.	Match Report	
+Sat	2019-10-12	19:30 (21:30)	Thorns	3.0	0–0	0.2	Spirit	24,521	Providence Park	Farhad Dadkho	Match Report	

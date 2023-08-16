@@ -1,0 +1,15 @@
+Basketball: Basketballreference.com for all leagues international and US where we used the data available by copying select csv rows by year
+
+MLB: https://www.retrosheet.org/ but the spreadsheet was modified by adding column names
+
+NFL: Footballrefence.com where we used the data available by copying select csv rows by year
+
+NHL: Hockeyreference.com where we used the data availible by copying select csv rows by year
+
+Mens Soccer: all of the European Data came from https://www.football-data.co.uk/ where csv files for each year were directly downloaded from
+the addition of USA data from before 2012 comes from: https://www.kaggle.com/datasets/josephvm/major-league-soccer-dataset?resource=download from the matches.csv
+
+Womens Soccer: All data came from fbref.com where the data was copied and then converted
+
+Cricket: Raw data from https://www.espncricinfo.com converted to csv manually
+
