@@ -1,5 +1,51 @@
 # Todos
 
+### 2023-06-15
+
+- Add README file in data directory with metadata.  It should have
+  information on where the data were download and when, what the files
+  mean and how they are organized, and what the data fields in the
+  files are.
+- Calculate summary statistics for each table (median, IQR) for home
+  field advantage and team strength, as measured by different metrics
+  (points, goal difference, goals scored per game).
+- Plot these summaries by time, league and tier to examine patterns.  
+
+### 2023-06-14
+
+Organize data from two European leagues, two divisions, and 12 years.
+Process them for home field advantage and team strength.
+
+- Create a data directory, and make subdirectories for league, and
+  division.  Put all the data files with the year in the filename in
+  the appropriate place.  This will make it easy to find the data
+  files.
+- Write a function to calculate the three quartiles, min and max of a
+  vector.
+- Create a data frame where each row corresponds to a unique year,
+  division, and league (those three are three columns).
+- Add to this data frame, the home field advantage dataframes. 
+
+### 2023-06-13
+
+Home field advantage.
+
+- Define the home field advantage for a team in two ways: (a)
+  difference in mean home points vs mean away points, and (b) mean
+  home goals vs mean away goals.  The reason for taking means is to
+  make it easier to compare leagues, as the size of the league (or
+  number of games played) might vary.
+- Write a function to calculate the home field advantage of each team
+  in the leage (two ways).
+- Calculate the mean and variance of the home field advantage across
+  teams in the league.
+
+### 2023-06-12
+
+- Calculate the league table.
+- Write a function to calculate the league table from a data file.
+- Apply the function to three seasons.
+
 ### 2023-06-10
 
 - Read in the 2022-2023 EPL data from http://www.football-data.co.uk
